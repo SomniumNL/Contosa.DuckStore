@@ -45,33 +45,39 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.Managemen
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa (Framework)", "Contosa (Framework)", "{EC227BE6-8CA0-4425-B9E3-D44B74096F73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa", "Source\Contosa\Contosa.csproj", "{746CBDBD-5769-4DE8-B118-F89724FDD114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa", "Source\Contosa\Contosa.csproj", "{746CBDBD-5769-4DE8-B118-F89724FDD114}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore", "Source\Contosa.DuckStore\Contosa.DuckStore.csproj", "{6309A38A-C2B8-4FFA-87B4-EFB97A6F6E53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore", "Source\Contosa.DuckStore\Contosa.DuckStore.csproj", "{6309A38A-C2B8-4FFA-87B4-EFB97A6F6E53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.PublicApi.WebApi", "Source\Contosa.DuckStore.PublicApi.WebApi\Contosa.DuckStore.PublicApi.WebApi.csproj", "{B079E4B5-6AD6-4EEA-924C-F2FD5AAD59E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.PublicApi.WebApi", "Source\Contosa.DuckStore.PublicApi.WebApi\Contosa.DuckStore.PublicApi.WebApi.csproj", "{B079E4B5-6AD6-4EEA-924C-F2FD5AAD59E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Central.WebApi", "Source\Contosa.DuckStore.Central.WebApi\Contosa.DuckStore.Central.WebApi.csproj", "{F40829B6-079D-4CF2-9A8D-849C5C12C793}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.Central.WebApi", "Source\Contosa.DuckStore.Central.WebApi\Contosa.DuckStore.Central.WebApi.csproj", "{F40829B6-079D-4CF2-9A8D-849C5C12C793}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Central", "Source\Contosa.DuckStore.Central\Contosa.DuckStore.Central.csproj", "{722F657A-6283-49BE-A245-E76894C58BC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.Central", "Source\Contosa.DuckStore.Central\Contosa.DuckStore.Central.csproj", "{722F657A-6283-49BE-A245-E76894C58BC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Central.Business", "Source\Contosa.DuckStore.Central.Business\Contosa.DuckStore.Central.Business.csproj", "{D3AA335C-44B1-4171-8593-9EA781BB6E3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.Central.Business", "Source\Contosa.DuckStore.Central.Business\Contosa.DuckStore.Central.Business.csproj", "{D3AA335C-44B1-4171-8593-9EA781BB6E3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Central.DataAccess", "Source\Contosa.DuckStore.Central.DataAccess\Contosa.DuckStore.Central.DataAccess.csproj", "{BBE6CE3B-4448-4BF0-9188-DA53C0ED89DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.Central.DataAccess", "Source\Contosa.DuckStore.Central.DataAccess\Contosa.DuckStore.Central.DataAccess.csproj", "{BBE6CE3B-4448-4BF0-9188-DA53C0ED89DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.PublicApi.Business", "Source\Contosa.DuckStore.PublicApi.Business\Contosa.DuckStore.PublicApi.Business.csproj", "{275F423C-5776-4493-800F-2143C40E7FE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.PublicApi.Business", "Source\Contosa.DuckStore.PublicApi.Business\Contosa.DuckStore.PublicApi.Business.csproj", "{275F423C-5776-4493-800F-2143C40E7FE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.PublicApi.DataAccess", "Source\Contosa.DuckStore.PublicApi.DataAccess\Contosa.DuckStore.PublicApi.DataAccess.csproj", "{D1B71194-7A3D-44A1-B013-A1F239DC9949}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.PublicApi.DataAccess", "Source\Contosa.DuckStore.PublicApi.DataAccess\Contosa.DuckStore.PublicApi.DataAccess.csproj", "{D1B71194-7A3D-44A1-B013-A1F239DC9949}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Management.WebApp", "Source\Contosa.DuckStore.Management.WebApp\Contosa.DuckStore.Management.WebApp.csproj", "{9537335A-C881-4D7B-AC53-82A8EC3528C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.Management.WebApp", "Source\Contosa.DuckStore.Management.WebApp\Contosa.DuckStore.Management.WebApp.csproj", "{9537335A-C881-4D7B-AC53-82A8EC3528C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Management.Business", "Source\Contosa.DuckStore.Management.Business\Contosa.DuckStore.Management.Business.csproj", "{7B99757A-59CB-44D2-879B-A89AE718CA73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.Management.Business", "Source\Contosa.DuckStore.Management.Business\Contosa.DuckStore.Management.Business.csproj", "{7B99757A-59CB-44D2-879B-A89AE718CA73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Management.DataAccess", "Source\Contosa.DuckStore.Management.DataAccess\Contosa.DuckStore.Management.DataAccess.csproj", "{6B302A66-F1DD-4ADB-8E73-313D5FD75A59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.Management.DataAccess", "Source\Contosa.DuckStore.Management.DataAccess\Contosa.DuckStore.Management.DataAccess.csproj", "{6B302A66-F1DD-4ADB-8E73-313D5FD75A59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.PublicApi", "Source\Contosa.DuckStore.PublicApi\Contosa.DuckStore.PublicApi.csproj", "{CC767809-352B-4ED5-A029-BFF04FCDCE7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.PublicApi", "Source\Contosa.DuckStore.PublicApi\Contosa.DuckStore.PublicApi.csproj", "{CC767809-352B-4ED5-A029-BFF04FCDCE7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Management", "Source\Contosa.DuckStore.Management\Contosa.DuckStore.Management.csproj", "{E42B2BD7-BA65-4F4E-82DC-E7966CAD0F2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.Management", "Source\Contosa.DuckStore.Management\Contosa.DuckStore.Management.csproj", "{E42B2BD7-BA65-4F4E-82DC-E7966CAD0F2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.OnlineStore.DataAccess", "Source\Contosa.DuckStore.OnlineStore.DataAccess\Contosa.DuckStore.OnlineStore.DataAccess.csproj", "{C37F5FA2-6824-46E8-B220-D413BD5D2E41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.OnlineStore", "Source\Contosa.DuckStore.OnlineStore\Contosa.DuckStore.OnlineStore.csproj", "{95A0D264-C669-449C-B4A7-38E4352771AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.OnlineStore.Business", "Source\Contosa.DuckStore.OnlineStore.Business\Contosa.DuckStore.OnlineStore.Business.csproj", "{1F4EBD4E-99FD-4E6D-AC9A-27AA412014E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +141,18 @@ Global
 		{E42B2BD7-BA65-4F4E-82DC-E7966CAD0F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E42B2BD7-BA65-4F4E-82DC-E7966CAD0F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E42B2BD7-BA65-4F4E-82DC-E7966CAD0F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37F5FA2-6824-46E8-B220-D413BD5D2E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37F5FA2-6824-46E8-B220-D413BD5D2E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37F5FA2-6824-46E8-B220-D413BD5D2E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37F5FA2-6824-46E8-B220-D413BD5D2E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A0D264-C669-449C-B4A7-38E4352771AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A0D264-C669-449C-B4A7-38E4352771AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A0D264-C669-449C-B4A7-38E4352771AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A0D264-C669-449C-B4A7-38E4352771AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F4EBD4E-99FD-4E6D-AC9A-27AA412014E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4EBD4E-99FD-4E6D-AC9A-27AA412014E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4EBD4E-99FD-4E6D-AC9A-27AA412014E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4EBD4E-99FD-4E6D-AC9A-27AA412014E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -161,6 +179,9 @@ Global
 		{6B302A66-F1DD-4ADB-8E73-313D5FD75A59} = {80705126-55FB-4F48-B691-FB644F107B58}
 		{CC767809-352B-4ED5-A029-BFF04FCDCE7E} = {D97746F8-3830-4009-8B63-7BFA423E94E1}
 		{E42B2BD7-BA65-4F4E-82DC-E7966CAD0F2E} = {80705126-55FB-4F48-B691-FB644F107B58}
+		{C37F5FA2-6824-46E8-B220-D413BD5D2E41} = {7F0C3B15-2D9E-4A2B-BC0E-4AC77D354F7D}
+		{95A0D264-C669-449C-B4A7-38E4352771AD} = {7F0C3B15-2D9E-4A2B-BC0E-4AC77D354F7D}
+		{1F4EBD4E-99FD-4E6D-AC9A-27AA412014E8} = {7F0C3B15-2D9E-4A2B-BC0E-4AC77D354F7D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E147E01D-F136-4C85-B72F-8558AF9F9EB2}
