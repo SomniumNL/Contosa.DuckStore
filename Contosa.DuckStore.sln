@@ -73,11 +73,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.PublicApi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.Management", "Source\Contosa.DuckStore.Management\Contosa.DuckStore.Management.csproj", "{E42B2BD7-BA65-4F4E-82DC-E7966CAD0F2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.OnlineStore.DataAccess", "Source\Contosa.DuckStore.OnlineStore.DataAccess\Contosa.DuckStore.OnlineStore.DataAccess.csproj", "{C37F5FA2-6824-46E8-B220-D413BD5D2E41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.OnlineStore.DataAccess", "Source\Contosa.DuckStore.OnlineStore.DataAccess\Contosa.DuckStore.OnlineStore.DataAccess.csproj", "{C37F5FA2-6824-46E8-B220-D413BD5D2E41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.OnlineStore", "Source\Contosa.DuckStore.OnlineStore\Contosa.DuckStore.OnlineStore.csproj", "{95A0D264-C669-449C-B4A7-38E4352771AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.OnlineStore", "Source\Contosa.DuckStore.OnlineStore\Contosa.DuckStore.OnlineStore.csproj", "{95A0D264-C669-449C-B4A7-38E4352771AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.OnlineStore.Business", "Source\Contosa.DuckStore.OnlineStore.Business\Contosa.DuckStore.OnlineStore.Business.csproj", "{1F4EBD4E-99FD-4E6D-AC9A-27AA412014E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.OnlineStore.Business", "Source\Contosa.DuckStore.OnlineStore.Business\Contosa.DuckStore.OnlineStore.Business.csproj", "{1F4EBD4E-99FD-4E6D-AC9A-27AA412014E8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.TestAreaConsole", "Contosa.TestAreaConsole", "{B7715FC3-8293-4559-AD44-D675CD3808D3}"
 EndProject
@@ -93,19 +93,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.OnlineSto
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Tests", "Unit Tests", "{CCD97DB9-625C-427F-9235-7BA9F76DA3A0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.Management.UnitTests", "Contosa.DuckStore.Management.UnitTests", "{E1B212B3-E644-412E-8593-F3105BCFDEA5}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.OnlineStore.UnitTests", "Contosa.DuckStore.OnlineStore.UnitTests", "{D42602B8-04E5-475C-85FB-B008716EA2C8}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.Central.UnitTests", "Contosa.DuckStore.Central.UnitTests", "{976C9B70-F552-436E-AB6E-86E487E47162}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.UnitTests", "Contosa.DuckStore.UnitTests", "{E92AC30B-745D-445E-8351-48400A4BE0A4}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.UnitTests", "Contosa.UnitTests", "{85B81A22-C496-4F88-AF67-1439A4283FDE}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.PublicApi.UnitTests", "Contosa.DuckStore.PublicApi.UnitTests", "{6177C888-7DCD-491A-87F6-74E9F6AD243A}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.Database", "Contosa.DuckStore.Database", "{FB6260C3-0D6A-4064-8408-8C724D26CA4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Central.UnitTests", "Tests\Contosa.DuckStore.Central.UnitTests\Contosa.DuckStore.Central.UnitTests.csproj", "{D8AF897A-1AF5-42FD-92B0-5717B8193BFA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.UnitTests", "Tests\Contosa.DuckStore.UnitTests\Contosa.DuckStore.UnitTests.csproj", "{4F779D6A-FCA1-4092-8CB1-665082608CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.OnlineStore.UnitTests", "Tests\Contosa.DuckStore.OnlineStore.UnitTests\Contosa.DuckStore.OnlineStore.UnitTests.csproj", "{FC9D98A5-6415-4695-B75D-811D11A322F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Management.UnitTests", "Tests\Contosa.DuckStore.Management.UnitTests\Contosa.DuckStore.Management.UnitTests.csproj", "{B8AE0406-1CC6-451A-A6F3-A41075B6E850}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.PublicApi.UnitTests", "Tests\Contosa.DuckStore.PublicApi.UnitTests\Contosa.DuckStore.PublicApi.UnitTests.csproj", "{E320D7C2-D725-4983-80F8-55558A33912D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -181,6 +179,26 @@ Global
 		{1F4EBD4E-99FD-4E6D-AC9A-27AA412014E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F4EBD4E-99FD-4E6D-AC9A-27AA412014E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F4EBD4E-99FD-4E6D-AC9A-27AA412014E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8AF897A-1AF5-42FD-92B0-5717B8193BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AF897A-1AF5-42FD-92B0-5717B8193BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AF897A-1AF5-42FD-92B0-5717B8193BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AF897A-1AF5-42FD-92B0-5717B8193BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F779D6A-FCA1-4092-8CB1-665082608CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F779D6A-FCA1-4092-8CB1-665082608CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F779D6A-FCA1-4092-8CB1-665082608CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F779D6A-FCA1-4092-8CB1-665082608CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9D98A5-6415-4695-B75D-811D11A322F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9D98A5-6415-4695-B75D-811D11A322F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9D98A5-6415-4695-B75D-811D11A322F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9D98A5-6415-4695-B75D-811D11A322F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8AE0406-1CC6-451A-A6F3-A41075B6E850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8AE0406-1CC6-451A-A6F3-A41075B6E850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8AE0406-1CC6-451A-A6F3-A41075B6E850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8AE0406-1CC6-451A-A6F3-A41075B6E850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E320D7C2-D725-4983-80F8-55558A33912D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E320D7C2-D725-4983-80F8-55558A33912D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E320D7C2-D725-4983-80F8-55558A33912D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E320D7C2-D725-4983-80F8-55558A33912D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -217,13 +235,12 @@ Global
 		{EF9107A5-2439-4186-B25F-002CE9DC5B79} = {001C0DF9-D213-45B7-A234-BBCA4473C532}
 		{3FD86464-22EB-49D8-88E3-2557543F9D87} = {001C0DF9-D213-45B7-A234-BBCA4473C532}
 		{CCD97DB9-625C-427F-9235-7BA9F76DA3A0} = {7C9C8983-3523-498D-88A7-C70BC8583460}
-		{E1B212B3-E644-412E-8593-F3105BCFDEA5} = {CCD97DB9-625C-427F-9235-7BA9F76DA3A0}
-		{D42602B8-04E5-475C-85FB-B008716EA2C8} = {CCD97DB9-625C-427F-9235-7BA9F76DA3A0}
-		{976C9B70-F552-436E-AB6E-86E487E47162} = {CCD97DB9-625C-427F-9235-7BA9F76DA3A0}
-		{E92AC30B-745D-445E-8351-48400A4BE0A4} = {CCD97DB9-625C-427F-9235-7BA9F76DA3A0}
-		{85B81A22-C496-4F88-AF67-1439A4283FDE} = {CCD97DB9-625C-427F-9235-7BA9F76DA3A0}
-		{6177C888-7DCD-491A-87F6-74E9F6AD243A} = {CCD97DB9-625C-427F-9235-7BA9F76DA3A0}
 		{FB6260C3-0D6A-4064-8408-8C724D26CA4B} = {6EADE939-5BF7-4411-8D91-8CA47E538477}
+		{D8AF897A-1AF5-42FD-92B0-5717B8193BFA} = {CCD97DB9-625C-427F-9235-7BA9F76DA3A0}
+		{4F779D6A-FCA1-4092-8CB1-665082608CAF} = {CCD97DB9-625C-427F-9235-7BA9F76DA3A0}
+		{FC9D98A5-6415-4695-B75D-811D11A322F7} = {CCD97DB9-625C-427F-9235-7BA9F76DA3A0}
+		{B8AE0406-1CC6-451A-A6F3-A41075B6E850} = {CCD97DB9-625C-427F-9235-7BA9F76DA3A0}
+		{E320D7C2-D725-4983-80F8-55558A33912D} = {CCD97DB9-625C-427F-9235-7BA9F76DA3A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E147E01D-F136-4C85-B72F-8558AF9F9EB2}
