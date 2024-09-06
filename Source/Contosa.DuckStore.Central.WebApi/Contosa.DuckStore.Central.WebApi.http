@@ -1,0 +1,6 @@
+@Contosa.DuckStore.Central.WebApi_HostAddress = http://localhost:5205
+
+GET {{Contosa.DuckStore.Central.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
