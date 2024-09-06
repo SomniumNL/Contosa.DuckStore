@@ -91,7 +91,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.PublicApi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.OnlineStore.TestAreaConsole", "Contosa.DuckStore.OnlineStore.TestAreaConsole", "{3FD86464-22EB-49D8-88E3-2557543F9D87}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{CCD97DB9-625C-427F-9235-7BA9F76DA3A0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Tests", "Unit Tests", "{CCD97DB9-625C-427F-9235-7BA9F76DA3A0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.Management.UnitTests", "Contosa.DuckStore.Management.UnitTests", "{E1B212B3-E644-412E-8593-F3105BCFDEA5}"
 EndProject
