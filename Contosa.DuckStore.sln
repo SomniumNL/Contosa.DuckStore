@@ -29,6 +29,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Data", "5. Data", "{6EAD
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagrams", "Diagrams", "{DDFC588B-C1A8-4FEE-92DD-90699EAA6CF3}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\Diagrams\Solution.dgml = Documentation\Diagrams\Solution.dgml
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.OnlineStore (Public Website)", "Contosa.DuckStore.OnlineStore (Public Website)", "{7F0C3B15-2D9E-4A2B-BC0E-4AC77D354F7D}"
 EndProject
@@ -42,7 +45,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.Managemen
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa (Framework)", "Contosa (Framework)", "{EC227BE6-8CA0-4425-B9E3-D44B74096F73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa", "Source\Contosa\Contosa.csproj", "{746CBDBD-5769-4DE8-B118-F89724FDD114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore", "Source\Contosa.DuckStore\Contosa.DuckStore.csproj", "{6309A38A-C2B8-4FFA-87B4-EFB97A6F6E53}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{746CBDBD-5769-4DE8-B118-F89724FDD114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746CBDBD-5769-4DE8-B118-F89724FDD114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746CBDBD-5769-4DE8-B118-F89724FDD114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746CBDBD-5769-4DE8-B118-F89724FDD114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6309A38A-C2B8-4FFA-87B4-EFB97A6F6E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6309A38A-C2B8-4FFA-87B4-EFB97A6F6E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6309A38A-C2B8-4FFA-87B4-EFB97A6F6E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6309A38A-C2B8-4FFA-87B4-EFB97A6F6E53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
@@ -54,6 +75,8 @@ Global
 		{56634B73-CB21-4AFC-8D7E-3BA510D4AD0A} = {1BC6E358-063D-4E53-A821-27E1F8E0886D}
 		{80705126-55FB-4F48-B691-FB644F107B58} = {1BC6E358-063D-4E53-A821-27E1F8E0886D}
 		{EC227BE6-8CA0-4425-B9E3-D44B74096F73} = {1BC6E358-063D-4E53-A821-27E1F8E0886D}
+		{746CBDBD-5769-4DE8-B118-F89724FDD114} = {EC227BE6-8CA0-4425-B9E3-D44B74096F73}
+		{6309A38A-C2B8-4FFA-87B4-EFB97A6F6E53} = {315753C2-F1AC-4BD0-B0A4-2266C903B9E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E147E01D-F136-4C85-B72F-8558AF9F9EB2}
