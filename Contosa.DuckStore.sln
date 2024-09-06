@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Source", "2. Source", "{1BC6E358-063D-4E53-A821-27E1F8E0886D}"
+	ProjectSection(SolutionItems) = preProject
+		Source\ReadMe.md = Source\ReadMe.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Documentation", "1. Documentation", "{BC9D6E40-3985-4AE4-A07D-45C5CA877A6C}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\ReadMe.md = Documentation\ReadMe.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Tests", "3. Tests", "{7C9C8983-3523-498D-88A7-C70BC8583460}"
+	ProjectSection(SolutionItems) = preProject
+		Tests\ReadMe.md = Tests\ReadMe.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Test Area", "4. Test Area", "{001C0DF9-D213-45B7-A234-BBCA4473C532}"
+	ProjectSection(SolutionItems) = preProject
+		Test Area\ReadMe.md = Test Area\ReadMe.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Data", "5. Data", "{6EADE939-5BF7-4411-8D91-8CA47E538477}"
+	ProjectSection(SolutionItems) = preProject
+		Data\ReadMe.md = Data\ReadMe.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagrams", "Diagrams", "{DDFC588B-C1A8-4FEE-92DD-90699EAA6CF3}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DDFC588B-C1A8-4FEE-92DD-90699EAA6CF3} = {BC9D6E40-3985-4AE4-A07D-45C5CA877A6C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E147E01D-F136-4C85-B72F-8558AF9F9EB2}
+	EndGlobalSection
+EndGlobal
