@@ -1,38 +1,55 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DirectedGraph DataVirtualized="True" Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
   <Nodes>
-    <Node Id="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" Category="CodeMap_SolutionFolder" Bounds="-44.0020168950962,-79.0000500000001,611.22,451.550613465033" Group="Expanded" Label="2. Source" />
-    <Node Id="@10" Category="CodeSchema_Assembly" Bounds="-4.00201689509575,307.550363465033,278.803333333333,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.Central.DataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(bbe6ce3b-4448-4bf0-9188-da53c0ed89da.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.Central.DataAccess.dll" UseManualLocation="True" />
-    <Node Id="@12" Category="CodeSchema_Assembly" Bounds="5.9979831049037,236.550263465033,263.743333333333,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.Central.Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(d3aa335c-44b1-4171-8593-9ea781bb6e3b.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.Central.Business.dll" UseManualLocation="True" />
-    <Node Id="@2" Category="CodeSchema_Assembly" Bounds="24.2179831049037,1.00014999999993,119.026666666667,25" CodeSchemaProperty_StrongName="Contosa, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(746cbdbd-5769-4de8-b118-f89724fdd114.OutputPath)" Group="Collapsed" Label="Contosa.dll" />
-    <Node Id="@4" Category="CodeSchema_Assembly" Bounds="223.81803638484,1.54976346503305,175.87,25" CodeSchemaProperty_StrongName="Contosa.DuckStore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(6309a38a-c2b8-4ffa-87b4-efb97a6f6e53.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.dll" />
-    <Node Id="@6" Category="CodeSchema_Assembly" Bounds="3.99798310490388,151.550063465033,260.59,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.Central.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(f40829b6-079d-4cf2-9a8d-849c5c12c793.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.Central.WebApi.dll" UseManualLocation="True" />
-    <Node Id="@8" Category="CodeSchema_Assembly" Bounds="310.997983104904,236.800163590033,216.22,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.Central, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(722f657a-6283-49be-a245-e76894c58bc0.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.Central.dll" UseManualLocation="True" />
-    <Node Id="Contosa (Framework){EC227BE6-8CA0-4425-B9E3-D44B74096F73}" Category="CodeMap_SolutionFolder" Bounds="4.21798310490402,-38.99995,159.026666666667,85.0002" Group="Expanded" Label="Contosa (Framework)" UseManualLocation="True" />
-    <Node Id="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" Category="CodeMap_SolutionFolder" Bounds="-24.0020168950963,111.549963465033,571.22,241.0005" Group="Expanded" Label="Contosa.DuckStore.Central (Web API)" />
-    <Node Id="Contosa.DuckStore{315753C2-F1AC-4BD0-B0A4-2266C903B9E2}" Category="CodeMap_SolutionFolder" Bounds="203.81803638484,-38.450336534967,215.87,85.0002" Group="Expanded" Label="Contosa.DuckStore" UseManualLocation="True" />
+    <Node Id="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" Category="CodeMap_SolutionFolder" Bounds="26.4274790843766,-72.3757780007747,912.369999999999,622.001100000766" Group="Expanded" Label="2. Source" />
+    <Node Id="@10" Category="CodeSchema_Assembly" Bounds="77.7191457510422,62.6245219992254,216.22,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.Central, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(722f657a-6283-49be-a245-e76894c58bc0.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.Central.dll" UseManualLocation="True" />
+    <Node Id="@12" Category="CodeSchema_Assembly" Bounds="608.124145751043,222.125299999188,290.673333333333,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.PublicApi.DataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(d1b71194-7a3d-44a1-b013-a1f239dc9949.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.PublicApi.DataAccess.dll" />
+    <Node Id="@14" Category="CodeSchema_Assembly" Bounds="66.4274790843766,199.624721999225,278.803333333333,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.Central.DataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(bbe6ce3b-4448-4bf0-9188-da53c0ed89da.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.Central.DataAccess.dll" />
+    <Node Id="@16" Category="CodeSchema_Assembly" Bounds="608.124145755328,167.125199999988,275.613333333333,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.PublicApi.Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(275f423c-5776-4493-800f-2143c40e7fe7.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.PublicApi.Business.dll" />
+    <Node Id="@18" Category="CodeSchema_Assembly" Bounds="112.957479084376,144.624621999225,263.743333333333,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.Central.Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(d3aa335c-44b1-4171-8593-9ea781bb6e3b.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.Central.Business.dll" />
+    <Node Id="@2" Category="CodeSchema_Assembly" Bounds="482.259653956719,484.625121999992,119.026666666667,25" CodeSchemaProperty_StrongName="Contosa, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(746cbdbd-5769-4de8-b118-f89724fdd114.OutputPath)" Group="Collapsed" Label="Contosa.dll" />
+    <Node Id="@4" Category="CodeSchema_Assembly" Bounds="453.948821199294,369.624821999992,175.87,25" CodeSchemaProperty_StrongName="Contosa.DuckStore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(6309a38a-c2b8-4ffa-87b4-efb97a6f6e53.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.dll" />
+    <Node Id="@6" Category="CodeSchema_Assembly" Bounds="608.124145751042,112.125099999988,272.46,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.PublicApi.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(b079e4b5-6ad6-4eea-924c-f2fd5aad59e3.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.PublicApi.WebApi.dll" />
+    <Node Id="@8" Category="CodeSchema_Assembly" Bounds="277.534145751043,7.62442199922534,260.59,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.Central.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(f40829b6-079d-4cf2-9a8d-849c5c12c793.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.Central.WebApi.dll" />
+    <Node Id="Contosa (Framework){EC227BE6-8CA0-4425-B9E3-D44B74096F73}" Category="CodeMap_SolutionFolder" Bounds="462.259653956719,444.625021999992,159.026666666667,85.0001999999999" Group="Expanded" Label="Contosa (Framework)" />
+    <Node Id="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" Category="CodeMap_SolutionFolder" Bounds="46.4274790843766,-32.3756780007747,511.696666666666,277.0005" Group="Expanded" Label="Contosa.DuckStore.Central (Web API)" />
+    <Node Id="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Category="CodeMap_SolutionFolder" Bounds="588.124145751042,72.1249999999878,330.673333333334,195.0003999992" Group="Expanded" Label="Contosa.DuckStore.PublicApi (Public Web API)" UseManualLocation="True" />
+    <Node Id="Contosa.DuckStore{315753C2-F1AC-4BD0-B0A4-2266C903B9E2}" Category="CodeMap_SolutionFolder" Bounds="433.948821199294,329.624721999992,215.87,85.0001999999999" Group="Expanded" Label="Contosa.DuckStore" />
   </Nodes>
   <Links>
     <Link Source="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" Target="Contosa (Framework){EC227BE6-8CA0-4425-B9E3-D44B74096F73}" Category="Contains" FetchingParent="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" />
     <Link Source="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" Target="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" Category="Contains" FetchingParent="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" />
+    <Link Source="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" Target="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Category="Contains" FetchingParent="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" />
     <Link Source="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" Target="Contosa.DuckStore{315753C2-F1AC-4BD0-B0A4-2266C903B9E2}" Category="Contains" FetchingParent="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" />
-    <Link Source="@10" Target="@2" Category="CodeMap_ProjectReference" Bounds="194.410162758263,221.371490323902,406.836761013859,86.1788731411313" />
-    <Link Source="@10" Target="@4" Category="CodeMap_ProjectReference" Bounds="151.308284829468,36.1102559435783,345.459328850807,271.440107521455" />
-    <Link Source="@10" Target="@8" Category="CodeMap_ProjectReference" Bounds="185.52465539604,263.977859618234,174.725760031438,43.5725038467987" />
-    <Link Source="@12" Target="@10" Category="CodeMap_ProjectReference" Bounds="136.147417172482,261.550263465033,1.28737405663563,37.0055411977964" />
-    <Link Source="@12" Target="@2" Category="CodeMap_ProjectReference" Bounds="88.6202681151798,34.7714572480174,46.3764084418516,201.778806217016" />
-    <Link Source="@12" Target="@4" Category="CodeMap_ProjectReference" Bounds="147.118746401858,33.7845905595621,150.031944160637,202.765672905471" />
-    <Link Source="@12" Target="@8" Category="CodeMap_ProjectReference" Bounds="269.741316438237,249.167440755886,32.256670219675,0.0286623300047495" />
+    <Link Source="@12" Target="@2" Category="CodeMap_ProjectReference" />
+    <Link Source="@12" Target="@4" Category="CodeMap_ProjectReference" />
+    <Link Source="@14" Target="@10" Category="CodeMap_ProjectReference" Bounds="102.823265075684,92.8600997924805,63.2240676879883,106.764625549316" />
+    <Link Source="@14" Target="@2" Category="CodeMap_ProjectReference" Bounds="194.410162758263,221.371490323902,406.836761013859,86.1788731411313" />
+    <Link Source="@14" Target="@4" Category="CodeMap_ProjectReference" Bounds="151.308284829468,36.1102559435783,345.459328850807,271.440107521455" />
+    <Link Source="@16" Target="@12" Category="CodeMap_ProjectReference" Bounds="747.64217294582,192.125199999721,2.88648752975178,21.0832805943501" />
+    <Link Source="@16" Target="@2" Category="CodeMap_ProjectReference" Bounds="123.803248624683,105.000099999767,408.85370285211,364.015310605275" />
+    <Link Source="@16" Target="@4" Category="CodeMap_ProjectReference" Bounds="262.268777291167,105.000099999767,270.827219732643,248.909821027523" />
+    <Link Source="@18" Target="@10" Category="CodeMap_ProjectReference" Bounds="200.079428277125,94.9300235613783,35.7558260030539,49.6945984378471" />
+    <Link Source="@18" Target="@14" Category="CodeMap_ProjectReference" Bounds="219.89861869645,169.624621999225,16.06690680663,22.6584995142395" />
+    <Link Source="@18" Target="@2" Category="CodeMap_ProjectReference" Bounds="88.6202681151798,34.7714572480174,46.3764084418516,201.778806217016" />
+    <Link Source="@18" Target="@4" Category="CodeMap_ProjectReference" Bounds="147.118746401858,33.7845905595621,150.031944160637,202.765672905471" />
     <Link Source="@4" Target="@2" Category="CodeMap_ProjectReference" Bounds="476.738333333333,105,5.6843418860808E-14,81" />
-    <Link Source="@6" Target="@12" Category="CodeMap_ProjectReference" Bounds="134.818962259463,176.550063465033,2.14633818659894,51.0081570722925" />
-    <Link Source="@6" Target="@2" Category="CodeMap_ProjectReference" Bounds="263.551344881686,174.59830286284,334.696457192268,27.3131912514768" />
-    <Link Source="@6" Target="@4" Category="CodeMap_ProjectReference" Bounds="167.294632183702,33.7376677110998,311.0402673443,117.812395753933" />
-    <Link Source="@6" Target="@8" Category="CodeMap_ExternalReference" Bounds="176.054664261639,176.550063465033,192.66958309511,57.6693687126734" />
+    <Link Source="@6" Target="@12" Category="CodeMap_ExternalReference" Bounds="802.099182128906,137.125106811523,91.7725219726563,82.9784545898438" />
+    <Link Source="@6" Target="@16" Category="CodeMap_ProjectReference" Bounds="744.712478433836,137.125099999721,0.602107717218701,21.0037957089484" />
+    <Link Source="@6" Target="@2" Category="CodeMap_ProjectReference" Bounds="553.337312763236,137.125099999988,183.903719524398,323.177256468747" />
+    <Link Source="@6" Target="@4" Category="CodeMap_ProjectReference" Bounds="558.174645592646,137.125099999988,175.677916414453,209.108836221696" />
+    <Link Source="@8" Target="@10" Category="CodeMap_ExternalReference" Bounds="245.019490929344,32.6244219992254,112.355201102523,27.8357986313463" />
+    <Link Source="@8" Target="@18" Category="CodeMap_ProjectReference" Bounds="266.591060805694,32.6244219992254,126.365843882927,106.209483957851" />
+    <Link Source="@8" Target="@2" Category="CodeMap_ProjectReference" Bounds="263.551344881686,174.59830286284,334.696457192268,27.3131912514768" />
+    <Link Source="@8" Target="@4" Category="CodeMap_ProjectReference" Bounds="167.294632183702,33.7376677110998,311.0402673443,117.812395753933" />
     <Link Source="Contosa (Framework){EC227BE6-8CA0-4425-B9E3-D44B74096F73}" Target="@2" Category="Contains" FetchingParent="Contosa (Framework){EC227BE6-8CA0-4425-B9E3-D44B74096F73}" />
     <Link Source="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" Target="@10" Category="Contains" FetchingParent="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" />
-    <Link Source="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" Target="@12" Category="Contains" FetchingParent="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" />
-    <Link Source="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" Target="@6" Category="Contains" FetchingParent="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" />
+    <Link Source="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" Target="@14" Category="Contains" FetchingParent="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" />
+    <Link Source="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" Target="@18" Category="Contains" FetchingParent="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" />
     <Link Source="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" Target="@8" Category="Contains" FetchingParent="Contosa.DuckStore.Central (Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" />
+    <Link Source="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Target="@12" Category="Contains" FetchingParent="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" />
+    <Link Source="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Target="@16" Category="Contains" FetchingParent="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" />
+    <Link Source="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Target="@6" Category="Contains" FetchingParent="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" />
     <Link Source="Contosa.DuckStore{315753C2-F1AC-4BD0-B0A4-2266C903B9E2}" Target="@4" Category="Contains" FetchingParent="Contosa.DuckStore{315753C2-F1AC-4BD0-B0A4-2266C903B9E2}" />
   </Links>
   <Categories>
@@ -81,14 +98,20 @@
     <Alias n="2" Id="(@1)" />
     <Alias n="3" Uri="Assembly=$(6309a38a-c2b8-4ffa-87b4-efb97a6f6e53.OutputPathUri)" />
     <Alias n="4" Id="(@3)" />
-    <Alias n="5" Uri="Assembly=$(f40829b6-079d-4cf2-9a8d-849c5c12c793.OutputPathUri)" />
+    <Alias n="5" Uri="Assembly=$(b079e4b5-6ad6-4eea-924c-f2fd5aad59e3.OutputPathUri)" />
     <Alias n="6" Id="(@5)" />
-    <Alias n="7" Uri="Assembly=$(722f657a-6283-49be-a245-e76894c58bc0.OutputPathUri)" />
+    <Alias n="7" Uri="Assembly=$(f40829b6-079d-4cf2-9a8d-849c5c12c793.OutputPathUri)" />
     <Alias n="8" Id="(@7)" />
-    <Alias n="9" Uri="Assembly=$(bbe6ce3b-4448-4bf0-9188-da53c0ed89da.OutputPathUri)" />
+    <Alias n="9" Uri="Assembly=$(722f657a-6283-49be-a245-e76894c58bc0.OutputPathUri)" />
     <Alias n="10" Id="(@9)" />
-    <Alias n="11" Uri="Assembly=$(d3aa335c-44b1-4171-8593-9ea781bb6e3b.OutputPathUri)" />
+    <Alias n="11" Uri="Assembly=$(d1b71194-7a3d-44a1-b013-a1f239dc9949.OutputPathUri)" />
     <Alias n="12" Id="(@11)" />
+    <Alias n="13" Uri="Assembly=$(bbe6ce3b-4448-4bf0-9188-da53c0ed89da.OutputPathUri)" />
+    <Alias n="14" Id="(@13)" />
+    <Alias n="15" Uri="Assembly=$(275f423c-5776-4493-800f-2143c40e7fe7.OutputPathUri)" />
+    <Alias n="16" Id="(@15)" />
+    <Alias n="17" Uri="Assembly=$(d3aa335c-44b1-4171-8593-9ea781bb6e3b.OutputPathUri)" />
+    <Alias n="18" Id="(@17)" />
   </IdentifierAliases>
   <Styles>
     <Style TargetType="Node" GroupLabel="Results" ValueLabel="True">
@@ -308,14 +331,20 @@
     </Style>
   </Styles>
   <Paths>
+    <Path Id="275f423c-5776-4493-800f-2143c40e7fe7.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.PublicApi.Business\bin\Debug\net8.0\Contosa.DuckStore.PublicApi.Business.dll" />
+    <Path Id="275f423c-5776-4493-800f-2143c40e7fe7.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore.PublicApi.Business/bin/Debug/net8.0/Contosa.DuckStore.PublicApi.Business.dll" />
     <Path Id="6309a38a-c2b8-4ffa-87b4-efb97a6f6e53.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore\bin\Debug\net8.0\Contosa.DuckStore.dll" />
     <Path Id="6309a38a-c2b8-4ffa-87b4-efb97a6f6e53.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore/bin/Debug/net8.0/Contosa.DuckStore.dll" />
     <Path Id="722f657a-6283-49be-a245-e76894c58bc0.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.Central\bin\Debug\net8.0\Contosa.DuckStore.Central.dll" />
     <Path Id="722f657a-6283-49be-a245-e76894c58bc0.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore.Central/bin/Debug/net8.0/Contosa.DuckStore.Central.dll" />
     <Path Id="746cbdbd-5769-4de8-b118-f89724fdd114.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa\bin\Debug\net8.0\Contosa.dll" />
     <Path Id="746cbdbd-5769-4de8-b118-f89724fdd114.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa/bin/Debug/net8.0/Contosa.dll" />
+    <Path Id="b079e4b5-6ad6-4eea-924c-f2fd5aad59e3.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.PublicApi.WebApi\bin\Debug\net8.0\Contosa.DuckStore.PublicApi.WebApi.dll" />
+    <Path Id="b079e4b5-6ad6-4eea-924c-f2fd5aad59e3.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore.PublicApi.WebApi/bin/Debug/net8.0/Contosa.DuckStore.PublicApi.WebApi.dll" />
     <Path Id="bbe6ce3b-4448-4bf0-9188-da53c0ed89da.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.Central.DataAccess\bin\Debug\net8.0\Contosa.DuckStore.Central.DataAccess.dll" />
     <Path Id="bbe6ce3b-4448-4bf0-9188-da53c0ed89da.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore.Central.DataAccess/bin/Debug/net8.0/Contosa.DuckStore.Central.DataAccess.dll" />
+    <Path Id="d1b71194-7a3d-44a1-b013-a1f239dc9949.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.PublicApi.DataAccess\bin\Debug\net8.0\Contosa.DuckStore.PublicApi.DataAccess.dll" />
+    <Path Id="d1b71194-7a3d-44a1-b013-a1f239dc9949.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore.PublicApi.DataAccess/bin/Debug/net8.0/Contosa.DuckStore.PublicApi.DataAccess.dll" />
     <Path Id="d3aa335c-44b1-4171-8593-9ea781bb6e3b.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.Central.Business\bin\Debug\net8.0\Contosa.DuckStore.Central.Business.dll" />
     <Path Id="d3aa335c-44b1-4171-8593-9ea781bb6e3b.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore.Central.Business/bin/Debug/net8.0/Contosa.DuckStore.Central.Business.dll" />
     <Path Id="f40829b6-079d-4cf2-9a8d-849c5c12c793.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.Central.WebApi\bin\Debug\net8.0\Contosa.DuckStore.Central.WebApi.dll" />
