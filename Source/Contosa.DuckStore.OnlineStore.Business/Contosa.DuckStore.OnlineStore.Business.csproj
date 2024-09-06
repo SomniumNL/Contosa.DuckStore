@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Contosa.DuckStore.OnlineStore.DataAccess\Contosa.DuckStore.OnlineStore.DataAccess.csproj" />
+    <ProjectReference Include="..\Contosa.DuckStore.OnlineStore\Contosa.DuckStore.OnlineStore.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore\Contosa.DuckStore.csproj" />
     <ProjectReference Include="..\Contosa\Contosa.csproj" />
   </ItemGroup>
