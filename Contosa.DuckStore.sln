@@ -107,7 +107,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.Central.T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.UnitTests", "Tests\Contosa.UnitTests\Contosa.UnitTests.csproj", "{3312CEC0-61DC-46CB-A7B2-89CC9F8F7C07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.TestArea", "Test Area\Contosa.TestArea\Contosa.TestArea.csproj", "{A87C8235-16F2-4B7C-A151-E3052035D4B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.TestArea", "Test Area\Contosa.TestArea\Contosa.TestArea.csproj", "{A87C8235-16F2-4B7C-A151-E3052035D4B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
