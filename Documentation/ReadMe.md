@@ -1,13 +1,16 @@
 # Solution Read Me
 
-## Links
+### General
 - DevOps ~ https://contosa.net/devops
-- Documentation ~ https://contosa.net/documentation
 - Azure Key Vault ~ https://contosa.net/azure/KeyVault
 - SonarCloud ~ https://contosa.net/SonarCloud
 
-## Contacts
-//TODO: Change all the names
+### Documentation
+- Architecture ~ https://contosa.net/Doc/architecture
+- Stakeholders ~ https://contosa.net/Doc/Stakeholders
+- Customer Support ~ https://contosa.net/Doc/CustomerSupport
+
+### Contacts
 - Kenny McCormick (IT Operations) ~ [Kenny.McCormick@Contosa.net](mailto:Kenny.McCormick@Contosa.net) 
 - Stan March (IT Operations) ~ [Stan.March@Contosa.net](mailto:Stan.March@Contosa.net) 
 - Heidi Turner (Security Manager) ~ [Heidi.Turner@Contosa.net](mailto:Heidi.Turner@Contosa.net) 
