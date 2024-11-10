@@ -4,6 +4,7 @@
 Duck Store is your go-to (fictional) online shop for all things duck! From charming quackers to feathery friends, our pretend store offers a wide range of ducks to brighten your day. Browse our collection and imagine the joy of owning your very own duck, all without the mess! Duck Store – where your duck dreams come true (in your imagination).
 
 ## General
+- Website - https://contosa.net/Duck
 - DevOps ~ https://contosa.net/devops
 - Azure Key Vault ~ https://contosa.net/azure/KeyVault
 - SonarCloud ~ https://contosa.net/SonarCloud
@@ -25,4 +26,4 @@ Duck Store is your go-to (fictional) online shop for all things duck! From charm
 All the information in this document is fictional. Any resemblance to real people, living or dead, is purely coincidental.
 Contosa is a fictional company and is not affiliated with any real company. But we love a good hamburger.
 
-<img src="https://somniumnl.files.wordpress.com/2023/10/purple-outerglow.png">
+<img src="https://somniumnl.files.wordpress.com/2023/10/purple-outerglow.png" style="width: 100%; max-width: 826px; max-height: 826px; height: auto;">
