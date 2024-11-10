@@ -35,7 +35,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagrams", "Diagrams", "{DD
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.OnlineStore (Public Website)", "Contosa.DuckStore.OnlineStore (Public Website)", "{7F0C3B15-2D9E-4A2B-BC0E-4AC77D354F7D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore", "Contosa.DuckStore", "{315753C2-F1AC-4BD0-B0A4-2266C903B9E2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore (Base)", "Contosa.DuckStore (Base)", "{315753C2-F1AC-4BD0-B0A4-2266C903B9E2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.PublicApi (Public Web API)", "Contosa.DuckStore.PublicApi (Public Web API)", "{D97746F8-3830-4009-8B63-7BFA423E94E1}"
 EndProject
