@@ -111,6 +111,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.TestArea", "Test Ar
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI Tests", "UI Tests", "{4C0A12CF-F514-4641-9201-ED502528FBF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Management.WebApp.UITests", "Tests\Contosa.DuckStore.Management.WebApp.UITests\Contosa.DuckStore.Management.WebApp.UITests.csproj", "{BD2B787E-7B8E-430C-A2B8-FEF73BF85834}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{A87C8235-16F2-4B7C-A151-E3052035D4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A87C8235-16F2-4B7C-A151-E3052035D4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A87C8235-16F2-4B7C-A151-E3052035D4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2B787E-7B8E-430C-A2B8-FEF73BF85834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2B787E-7B8E-430C-A2B8-FEF73BF85834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2B787E-7B8E-430C-A2B8-FEF73BF85834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2B787E-7B8E-430C-A2B8-FEF73BF85834}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -282,6 +288,7 @@ Global
 		{3312CEC0-61DC-46CB-A7B2-89CC9F8F7C07} = {CCD97DB9-625C-427F-9235-7BA9F76DA3A0}
 		{A87C8235-16F2-4B7C-A151-E3052035D4B0} = {001C0DF9-D213-45B7-A234-BBCA4473C532}
 		{4C0A12CF-F514-4641-9201-ED502528FBF7} = {7C9C8983-3523-498D-88A7-C70BC8583460}
+		{BD2B787E-7B8E-430C-A2B8-FEF73BF85834} = {4C0A12CF-F514-4641-9201-ED502528FBF7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E147E01D-F136-4C85-B72F-8558AF9F9EB2}
