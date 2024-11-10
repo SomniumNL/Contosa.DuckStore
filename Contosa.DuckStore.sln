@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Source", "2. Source", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Documentation", "1. Documentation", "{BC9D6E40-3985-4AE4-A07D-45C5CA877A6C}"
 	ProjectSection(SolutionItems) = preProject
-		Documentation\ReadMe.md = Documentation\ReadMe.md
+		ReadMe.md = ReadMe.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Tests", "3. Tests", "{7C9C8983-3523-498D-88A7-C70BC8583460}"
@@ -111,7 +111,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.TestArea", "Test Ar
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. UI Tests", "3. UI Tests", "{4C0A12CF-F514-4641-9201-ED502528FBF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Management.WebApp.UITests", "Tests\Contosa.DuckStore.Management.WebApp.UITests\Contosa.DuckStore.Management.WebApp.UITests.csproj", "{BD2B787E-7B8E-430C-A2B8-FEF73BF85834}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.Management.WebApp.UITests", "Tests\Contosa.DuckStore.Management.WebApp.UITests\Contosa.DuckStore.Management.WebApp.UITests.csproj", "{BD2B787E-7B8E-430C-A2B8-FEF73BF85834}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. API Tests", "2. API Tests", "{B9911C81-8E1D-45E9-87B3-143FF13E6966}"
 EndProject
