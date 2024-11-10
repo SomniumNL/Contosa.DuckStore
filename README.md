@@ -3,17 +3,17 @@
 ## Introduction
 Duck Store is your go-to (fictional) online shop for all things duck! From charming quackers to feathery friends, our pretend store offers a wide range of ducks to brighten your day. Browse our collection and imagine the joy of owning your very own duck, all without the mess! Duck Store – where your duck dreams come true (in your imagination).
 
-### General
+## General
 - DevOps ~ https://contosa.net/devops
 - Azure Key Vault ~ https://contosa.net/azure/KeyVault
 - SonarCloud ~ https://contosa.net/SonarCloud
 
-### Documentation
+## Documentation
 - Architecture ~ https://contosa.net/Doc/architecture
 - Stakeholders ~ https://contosa.net/Doc/Stakeholders
 - Customer Support ~ https://contosa.net/Doc/CustomerSupport
 
-### Contacts
+## Contacts
 - Kenny McCormick (IT Operations) ~ [Kenny.McCormick@Contosa.net](mailto:Kenny.McCormick@Contosa.net) 
 - Stan March (IT Operations) ~ [Stan.March@Contosa.net](mailto:Stan.March@Contosa.net) 
 - Heidi Turner (Security Manager) ~ [Heidi.Turner@Contosa.net](mailto:Heidi.Turner@Contosa.net) 
