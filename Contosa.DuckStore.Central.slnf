@@ -1,0 +1,19 @@
+{
+  "solution": {
+    "path": "Contosa.DuckStore.sln",
+    "projects": [
+      "Source\\Contosa.DuckStore.Central.Business\\Contosa.DuckStore.Central.Business.csproj",
+      "Source\\Contosa.DuckStore.Central.DataAccess\\Contosa.DuckStore.Central.DataAccess.csproj",
+      "Source\\Contosa.DuckStore.Central.WebApi\\Contosa.DuckStore.Central.WebApi.csproj",
+      "Source\\Contosa.DuckStore.Central\\Contosa.DuckStore.Central.csproj",
+      "Source\\Contosa.DuckStore\\Contosa.DuckStore.csproj",
+      "Source\\Contosa\\Contosa.csproj",
+      "Test Area\\Contosa.DuckStore.Central.TestAreaConsole\\Contosa.DuckStore.Central.TestAreaConsole.csproj",
+      "Test Area\\Contosa.TestAreaConsole\\Contosa.TestAreaConsole.csproj",
+      "Test Area\\Contosa.TestArea\\Contosa.TestArea.csproj",
+      "Tests\\Contosa.DuckStore.Central.UnitTests\\Contosa.DuckStore.Central.UnitTests.csproj",
+      "Tests\\Contosa.DuckStore.UnitTests\\Contosa.DuckStore.UnitTests.csproj",
+      "Tests\\Contosa.UnitTests\\Contosa.UnitTests.csproj"
+    ]
+  }
+}
