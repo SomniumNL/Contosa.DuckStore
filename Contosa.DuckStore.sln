@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Managemen
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. API Tests", "2. API Tests", "{B9911C81-8E1D-45E9-87B3-143FF13E6966}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.PublicApi.WebApi.APITests", "Tests\Contosa.DuckStore.PublicApi.WebApi.APITests\Contosa.DuckStore.PublicApi.WebApi.APITests.csproj", "{A52F0D37-91CC-4C04-8AB4-9DB1085D67FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -245,6 +247,10 @@ Global
 		{BD2B787E-7B8E-430C-A2B8-FEF73BF85834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD2B787E-7B8E-430C-A2B8-FEF73BF85834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD2B787E-7B8E-430C-A2B8-FEF73BF85834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A52F0D37-91CC-4C04-8AB4-9DB1085D67FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52F0D37-91CC-4C04-8AB4-9DB1085D67FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52F0D37-91CC-4C04-8AB4-9DB1085D67FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52F0D37-91CC-4C04-8AB4-9DB1085D67FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -292,6 +298,7 @@ Global
 		{4C0A12CF-F514-4641-9201-ED502528FBF7} = {7C9C8983-3523-498D-88A7-C70BC8583460}
 		{BD2B787E-7B8E-430C-A2B8-FEF73BF85834} = {4C0A12CF-F514-4641-9201-ED502528FBF7}
 		{B9911C81-8E1D-45E9-87B3-143FF13E6966} = {7C9C8983-3523-498D-88A7-C70BC8583460}
+		{A52F0D37-91CC-4C04-8AB4-9DB1085D67FF} = {B9911C81-8E1D-45E9-87B3-143FF13E6966}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E147E01D-F136-4C85-B72F-8558AF9F9EB2}
