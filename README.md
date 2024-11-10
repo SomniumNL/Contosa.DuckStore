@@ -21,3 +21,5 @@
 <b>Disclaimer:</b><br/>
 All the information in this document is fictional. Any resemblance to real people, living or dead, is purely coincidental.
 Contosa is a fictional company and is not affiliated with any real company. But we love a good hamburger.
+
+<img src="https://somniumnl.files.wordpress.com/2023/10/purple-outerglow.png">
