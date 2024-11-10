@@ -79,7 +79,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.OnlineSto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.OnlineStore.Business", "Source\Contosa.DuckStore.OnlineStore.Business\Contosa.DuckStore.OnlineStore.Business.csproj", "{1F4EBD4E-99FD-4E6D-AC9A-27AA412014E8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Tests", "Unit Tests", "{CCD97DB9-625C-427F-9235-7BA9F76DA3A0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Unit Tests", "1. Unit Tests", "{CCD97DB9-625C-427F-9235-7BA9F76DA3A0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.Database", "Contosa.DuckStore.Database", "{FB6260C3-0D6A-4064-8408-8C724D26CA4B}"
 EndProject
@@ -109,9 +109,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.UnitTests", "Tests\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.TestArea", "Test Area\Contosa.TestArea\Contosa.TestArea.csproj", "{A87C8235-16F2-4B7C-A151-E3052035D4B0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI Tests", "UI Tests", "{4C0A12CF-F514-4641-9201-ED502528FBF7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. UI Tests", "3. UI Tests", "{4C0A12CF-F514-4641-9201-ED502528FBF7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Management.WebApp.UITests", "Tests\Contosa.DuckStore.Management.WebApp.UITests\Contosa.DuckStore.Management.WebApp.UITests.csproj", "{BD2B787E-7B8E-430C-A2B8-FEF73BF85834}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. API Tests", "2. API Tests", "{B9911C81-8E1D-45E9-87B3-143FF13E6966}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -289,6 +291,7 @@ Global
 		{A87C8235-16F2-4B7C-A151-E3052035D4B0} = {001C0DF9-D213-45B7-A234-BBCA4473C532}
 		{4C0A12CF-F514-4641-9201-ED502528FBF7} = {7C9C8983-3523-498D-88A7-C70BC8583460}
 		{BD2B787E-7B8E-430C-A2B8-FEF73BF85834} = {4C0A12CF-F514-4641-9201-ED502528FBF7}
+		{B9911C81-8E1D-45E9-87B3-143FF13E6966} = {7C9C8983-3523-498D-88A7-C70BC8583460}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E147E01D-F136-4C85-B72F-8558AF9F9EB2}
