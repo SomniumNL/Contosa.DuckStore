@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Source", "2. Source", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Documentation", "1. Documentation", "{BC9D6E40-3985-4AE4-A07D-45C5CA877A6C}"
 	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
+		ReadMe.md = ReadMe.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Tests", "3. Tests", "{7C9C8983-3523-498D-88A7-C70BC8583460}"
@@ -34,16 +34,34 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagrams", "Diagrams", "{DD
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.OnlineStore (Public Website)", "Contosa.DuckStore.OnlineStore (Public Website)", "{7F0C3B15-2D9E-4A2B-BC0E-4AC77D354F7D}"
+	ProjectSection(SolutionItems) = preProject
+		Source\Contosa.DuckStore.OnlineStore.WebApp ReadMe.md = Source\Contosa.DuckStore.OnlineStore.WebApp ReadMe.md
+	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore (Base)", "Contosa.DuckStore (Base)", "{315753C2-F1AC-4BD0-B0A4-2266C903B9E2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore (DuckStore base)", "Contosa.DuckStore (DuckStore base)", "{315753C2-F1AC-4BD0-B0A4-2266C903B9E2}"
+	ProjectSection(SolutionItems) = preProject
+		Source\Contosa.DuckStore ReadMe.md = Source\Contosa.DuckStore ReadMe.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.PublicApi (Public Web API)", "Contosa.DuckStore.PublicApi (Public Web API)", "{D97746F8-3830-4009-8B63-7BFA423E94E1}"
+	ProjectSection(SolutionItems) = preProject
+		Source\Contosa.DuckStore.PublicApi.WebApi ReadMe.md = Source\Contosa.DuckStore.PublicApi.WebApi ReadMe.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.Central (Internal Web API)", "Contosa.DuckStore.Central (Internal Web API)", "{56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}"
+	ProjectSection(SolutionItems) = preProject
+		Source\Contosa.DuckStore.Central.WebApi ReadMe.md = Source\Contosa.DuckStore.Central.WebApi ReadMe.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.Management (Internal Website)", "Contosa.DuckStore.Management (Internal Website)", "{80705126-55FB-4F48-B691-FB644F107B58}"
+	ProjectSection(SolutionItems) = preProject
+		Source\Contosa.DuckStore.Management.WebApp ReadMe.md = Source\Contosa.DuckStore.Management.WebApp ReadMe.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa (Framework)", "Contosa (Framework)", "{EC227BE6-8CA0-4425-B9E3-D44B74096F73}"
+	ProjectSection(SolutionItems) = preProject
+		Source\Contosa ReadMe.md = Source\Contosa ReadMe.md
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa", "Source\Contosa\Contosa.csproj", "{746CBDBD-5769-4DE8-B118-F89724FDD114}"
 EndProject
