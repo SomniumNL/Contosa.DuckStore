@@ -30,7 +30,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Data", "5. Data", "{6EAD
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagrams", "Diagrams", "{DDFC588B-C1A8-4FEE-92DD-90699EAA6CF3}"
 	ProjectSection(SolutionItems) = preProject
-		Documentation\Diagrams\Solution.dgml = Documentation\Diagrams\Solution.dgml
+		Documentation\Diagrams\Source Diagram.dgml = Documentation\Diagrams\Source Diagram.dgml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.OnlineStore (Public Website)", "Contosa.DuckStore.OnlineStore (Public Website)", "{7F0C3B15-2D9E-4A2B-BC0E-4AC77D354F7D}"
