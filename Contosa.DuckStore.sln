@@ -30,7 +30,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Data", "5. Data", "{6EAD
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagrams", "Diagrams", "{DDFC588B-C1A8-4FEE-92DD-90699EAA6CF3}"
 	ProjectSection(SolutionItems) = preProject
-		Documentation\Diagrams\Source Diagram.dgml = Documentation\Diagrams\Source Diagram.dgml
+		Documentation\Diagrams\Source - Full Diagram.dgml = Documentation\Diagrams\Source - Full Diagram.dgml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.OnlineStore (Public Website)", "Contosa.DuckStore.OnlineStore (Public Website)", "{7F0C3B15-2D9E-4A2B-BC0E-4AC77D354F7D}"
@@ -134,6 +134,13 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. API Tests", "2. API Tests", "{B9911C81-8E1D-45E9-87B3-143FF13E6966}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.PublicApi.WebApi.APITests", "Tests\Contosa.DuckStore.PublicApi.WebApi.APITests\Contosa.DuckStore.PublicApi.WebApi.APITests.csproj", "{A52F0D37-91CC-4C04-8AB4-9DB1085D67FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Deployment", "6. Deployment", "{358B4B5A-0043-4A63-A253-99058532C2B3}"
+	ProjectSection(SolutionItems) = preProject
+		Main.yml = Main.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7. Tools", "7. Tools", "{A9085A48-D33F-4654-AD74-9185230A1805}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
