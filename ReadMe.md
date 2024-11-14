@@ -5,12 +5,12 @@ Duck Store is your go-to (fictional) online shop for all things duck! From charm
 
 ## General
 - Website - https://contosa.net/Duck
-- DevOps ~ https://contosa.net/devops
-- Azure Key Vault ~ https://contosa.net/azure/KeyVault
+- DevOps ~ https://contosa.net/DevOps
+- Azure Key Vault ~ https://contosa.net/Azure/KeyVault
 - SonarCloud ~ https://contosa.net/SonarCloud
 
 ## Documentation
-- Architecture ~ https://contosa.net/Doc/architecture
+- Architecture ~ https://contosa.net/Doc/Architecture
 - Stakeholders ~ https://contosa.net/Doc/Stakeholders
 - Customer Support ~ https://contosa.net/Doc/CustomerSupport
 
@@ -22,8 +22,17 @@ Duck Store is your go-to (fictional) online shop for all things duck! From charm
 - Kyle Broflovski (Customer Stakeholder) ~ [Kyle.Broflovski@Contosa.net](mailto:Kyle.Broflovski@Contosa.net) 
 - Eric Cartman (Human Resources) ~ [Eric.Cartman@Contosa.net](mailto:Eric.Cartman@Contosa.net) 
 
-<b>Disclaimer:</b><br/>
-All the information in this document is fictional. Any resemblance to real people, living or dead, is purely coincidental.
-Contosa is a fictional company and is not affiliated with any real company. But we love a good hamburger.
+## Release History
+- 0.9.0 ~ https://contosa.net/DevOps/Release_0.9.0
+  - FEATURE: Duck Store website - Added browsing
+- 1.0.0 ~ https://contosa.net/DevOps/Release_1.0.0
+  - FEATURE: Duck Store website - Added selling integration
 
-<img src="https://somniumnl.files.wordpress.com/2023/10/purple-outerglow.png" style="width: 100%; max-width: 826px; max-height: 826px; height: auto;">
+# Somnium
+<a href="https://Somnium.nl">
+<img src="https://somniumnl.files.wordpress.com/2023/10/purple-outerglow.png" style="width: 100%; max-width: 326px; max-height: 326px; height: auto;">
+</a>
+
+<b>Disclaimer:</b><br/>
+All the information in this document is fictional except Somnium. Any resemblance to real people, living or dead, is purely coincidental.
+Contosa is a fictional company and is not affiliated with any real company. No ducks were harmed in the making of this document.
