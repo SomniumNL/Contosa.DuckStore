@@ -5,7 +5,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\Contosa.DuckStore.Central.Business.Entities\Contosa.DuckStore.Central.Business.Entities.csproj" />
+    <ProjectReference Include="..\Contosa.DuckStore.Central.DataAccess.Entities\Contosa.DuckStore.Central.DataAccess.Entities.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore.Central\Contosa.DuckStore.Central.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore\Contosa.DuckStore.csproj" />
     <ProjectReference Include="..\Contosa\Contosa.csproj" />
