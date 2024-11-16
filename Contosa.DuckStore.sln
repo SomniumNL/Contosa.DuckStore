@@ -30,7 +30,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Data", "5. Data", "{6EAD
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagrams", "Diagrams", "{DDFC588B-C1A8-4FEE-92DD-90699EAA6CF3}"
 	ProjectSection(SolutionItems) = preProject
-		Graph1.dgml = Graph1.dgml
 		Documentation\Diagrams\Source - Full Diagram.dgml = Documentation\Diagrams\Source - Full Diagram.dgml
 	EndProjectSection
 EndProject
@@ -156,6 +155,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.PublicApi.DataAccess.Entities", "Source\Contosa.DuckStore.PublicApi.DataAccess.Entities\Contosa.DuckStore.PublicApi.DataAccess.Entities.csproj", "{E6AC1221-D608-4030-A530-D6F32A3A691E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.OnlineStore.DataAccess.Entities", "Source\Contosa.DuckStore.OnlineStore.DataAccess.Entities\Contosa.DuckStore.OnlineStore.DataAccess.Entities.csproj", "{B37460B9-9A6B-4086-BC98-6224817FACBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Management.DataAccess.Entities", "Source\Contosa.DuckStore.Management.DataAccess.Entities\Contosa.DuckStore.Management.DataAccess.Entities.csproj", "{0F7633DA-C265-4A5C-856C-10D36B5188A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Central.DataAccess.Entities", "Source\Contosa.DuckStore.Central.DataAccess.Entities\Contosa.DuckStore.Central.DataAccess.Entities.csproj", "{47FF511E-AA7A-4F06-8F89-0BD631B99F49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -319,6 +322,14 @@ Global
 		{B37460B9-9A6B-4086-BC98-6224817FACBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B37460B9-9A6B-4086-BC98-6224817FACBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B37460B9-9A6B-4086-BC98-6224817FACBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7633DA-C265-4A5C-856C-10D36B5188A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7633DA-C265-4A5C-856C-10D36B5188A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7633DA-C265-4A5C-856C-10D36B5188A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7633DA-C265-4A5C-856C-10D36B5188A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47FF511E-AA7A-4F06-8F89-0BD631B99F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FF511E-AA7A-4F06-8F89-0BD631B99F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FF511E-AA7A-4F06-8F89-0BD631B99F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FF511E-AA7A-4F06-8F89-0BD631B99F49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -374,6 +385,8 @@ Global
 		{A6154527-DCE0-4AD7-BF4F-78651BF7CB4F} = {D97746F8-3830-4009-8B63-7BFA423E94E1}
 		{E6AC1221-D608-4030-A530-D6F32A3A691E} = {D97746F8-3830-4009-8B63-7BFA423E94E1}
 		{B37460B9-9A6B-4086-BC98-6224817FACBA} = {7F0C3B15-2D9E-4A2B-BC0E-4AC77D354F7D}
+		{0F7633DA-C265-4A5C-856C-10D36B5188A0} = {80705126-55FB-4F48-B691-FB644F107B58}
+		{47FF511E-AA7A-4F06-8F89-0BD631B99F49} = {56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E147E01D-F136-4C85-B72F-8558AF9F9EB2}
