@@ -35,4 +35,4 @@ Duck Store is your go-to (fictional) online shop for all things duck! From charm
 
 <b>Disclaimer:</b><br/>
 All the information in this document is fictional except Somnium. Any resemblance to real people, living or dead, is purely coincidental.
-Contosa is a fictional company and is not affiliated with any real company. No ducks were harmed in the making of this document.
+Contosa is a fictional company and Duck Store is not affiliated with any real company. No ducks were harmed in the making of this solution.
