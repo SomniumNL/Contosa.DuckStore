@@ -1,7 +1,5 @@
-﻿namespace Contosa.DuckStore.PublicApi.DataAccess
-{
-    public class Class1
-    {
+﻿namespace Contosa.DuckStore.PublicApi.DataAccess;
 
-    }
+public class Class1
+{
 }

@@ -1,10 +1,9 @@
-﻿namespace Contosa.DuckStore.Central.WebApi.Tool
+﻿namespace Contosa.DuckStore.Central.WebApi.Tool;
+
+internal class Program
 {
-    internal class Program
+    private static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        Console.WriteLine("Hello, World!");
     }
 }

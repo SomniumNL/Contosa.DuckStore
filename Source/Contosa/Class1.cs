@@ -1,7 +1,5 @@
-﻿namespace Contosa
-{
-    public class Class1
-    {
+﻿namespace Contosa;
 
-    }
+public class Class1
+{
 }

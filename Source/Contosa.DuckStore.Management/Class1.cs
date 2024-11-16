@@ -1,7 +1,5 @@
-﻿namespace Contosa.DuckStore.Management
-{
-    public class Class1
-    {
+﻿namespace Contosa.DuckStore.Management;
 
-    }
+public class Class1
+{
 }

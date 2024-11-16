@@ -1,9 +1,8 @@
-namespace Contosa.DuckStore.Management.WebApp.UITests
+namespace Contosa.DuckStore.Management.WebApp.UITests;
+
+public class UnitTest1
 {
-    public class UnitTest1
+    public void TestMethod1()
     {
-        public void TestMethod1()
-        {
-        }
     }
 }
