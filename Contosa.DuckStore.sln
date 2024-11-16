@@ -30,7 +30,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Data", "5. Data", "{6EAD
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagrams", "Diagrams", "{DDFC588B-C1A8-4FEE-92DD-90699EAA6CF3}"
 	ProjectSection(SolutionItems) = preProject
-		Diagram Full.dgml = Diagram Full.dgml
+		Documentation\Diagrams\Diagram Full.dgml = Documentation\Diagrams\Diagram Full.dgml
+		Documentation\Diagrams\Source - Full Diagram.dgml = Documentation\Diagrams\Source - Full Diagram.dgml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contosa.DuckStore.OnlineStore (Public Website)", "Contosa.DuckStore.OnlineStore (Public Website)", "{7F0C3B15-2D9E-4A2B-BC0E-4AC77D354F7D}"
@@ -138,9 +139,13 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Deployment", "6. Deployment", "{358B4B5A-0043-4A63-A253-99058532C2B3}"
 	ProjectSection(SolutionItems) = preProject
 		Main.yml = Main.yml
+		Deployment\ReadMe.md = Deployment\ReadMe.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7. Tools", "7. Tools", "{A9085A48-D33F-4654-AD74-9185230A1805}"
+	ProjectSection(SolutionItems) = preProject
+		Tools\ReadMe.md = Tools\ReadMe.md
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.Data", "Source\Contosa.DuckStore.Data.csproj\Contosa.DuckStore.Data.csproj", "{A77AE9AB-4E93-42BB-B4A5-37B3351C7BE0}"
 EndProject
