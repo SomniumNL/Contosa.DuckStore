@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Contosa.DuckStore.OnlineStore.Business.Entities\Contosa.DuckStore.OnlineStore.Business.Entities.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore.OnlineStore.DataAccess\Contosa.DuckStore.OnlineStore.DataAccess.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore.OnlineStore\Contosa.DuckStore.OnlineStore.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore\Contosa.DuckStore.csproj" />
