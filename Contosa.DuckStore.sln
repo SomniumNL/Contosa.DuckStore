@@ -171,8 +171,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Central.W
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL Scripts", "SQL Scripts", "{9B7FEBDC-E7B4-4364-9F21-11A09FD681B1}"
 	ProjectSection(SolutionItems) = preProject
-		Data\Sql Scripts\Create Tables.sql = Data\Sql Scripts\Create Tables.sql
-		Data\Sql Scripts\Insert Default.sql = Data\Sql Scripts\Insert Default.sql
+		Data\Sql Scripts\CreateDatabase.sql = Data\Sql Scripts\CreateDatabase.sql
+		Data\Sql Scripts\InsertDefault.sql = Data\Sql Scripts\InsertDefault.sql
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSV", "CSV", "{3C14A53B-80D3-4D12-8777-91D88AF1FF62}"
