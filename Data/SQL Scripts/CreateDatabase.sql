@@ -1,18 +1,21 @@
 -- Create the database
 CREATE DATABASE DuckStore;
+GO
 
 -- Use the database
 USE DuckStore;
+GO
 
 -- Create the Ducks table
 CREATE TABLE Ducks (
     DuckID INT IDENTITY(1,1) PRIMARY KEY,
     Name VARCHAR(255) NOT NULL,
     Price DECIMAL(10, 2) NOT NULL,
-    Description TEXT,
+    Description NVARCHAR(MAX), -- Use NVARCHAR(MAX) for large text
     Category VARCHAR(100),
     ImageURL VARCHAR(255)
 );
+GO
 
 -- Create the Customers table
 CREATE TABLE Customers (
@@ -21,21 +24,23 @@ CREATE TABLE Customers (
     LastName VARCHAR(100) NOT NULL,
     Email VARCHAR(255) UNIQUE NOT NULL,
     Phone VARCHAR(20),
-    Address TEXT,
+    Address NVARCHAR(MAX), -- Use NVARCHAR(MAX) for large text
     City VARCHAR(100),
     PostalCode VARCHAR(20),
     Country VARCHAR(100)
 );
+GO
 
 -- Create the Orders table
 CREATE TABLE Orders (
     OrderID INT IDENTITY(1,1) PRIMARY KEY,
     CustomerID INT NOT NULL,
-    OrderDate DATETIME DEFAULT CURRENT_TIMESTAMP,
+    OrderDate DATETIME DEFAULT GETDATE(), -- Use GETDATE() for current timestamp
     TotalAmount DECIMAL(10, 2) NOT NULL,
     Status VARCHAR(50) DEFAULT 'Pending',
     FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID) ON DELETE CASCADE
 );
+GO
 
 -- Create the OrderItems table
 CREATE TABLE OrderItems (
@@ -47,3 +52,4 @@ CREATE TABLE OrderItems (
     FOREIGN KEY (OrderID) REFERENCES Orders(OrderID) ON DELETE CASCADE,
     FOREIGN KEY (DuckID) REFERENCES Ducks(DuckID) ON DELETE CASCADE
 );
+GO
