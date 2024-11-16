@@ -1,19 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
-
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
-
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
-
   <ItemGroup>
     <ProjectReference Include="..\Contosa.DuckStore.PublicApi.Business\Contosa.DuckStore.PublicApi.Business.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore\Contosa.DuckStore.csproj" />
     <ProjectReference Include="..\Contosa\Contosa.csproj" />
   </ItemGroup>
-
 </Project>

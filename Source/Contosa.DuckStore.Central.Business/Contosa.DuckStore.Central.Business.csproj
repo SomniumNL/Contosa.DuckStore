@@ -1,11 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
   <ItemGroup>
     <ProjectReference Include="..\Contosa.DuckStore.Central.Business.Entities\Contosa.DuckStore.Central.Business.Entities.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore.Central.DataAccess.Entities\Contosa.DuckStore.Central.DataAccess.Entities.csproj" />
@@ -15,5 +13,4 @@
     <ProjectReference Include="..\Contosa.DuckStore\Contosa.DuckStore.csproj" />
     <ProjectReference Include="..\Contosa\Contosa.csproj" />
   </ItemGroup>
-
 </Project>
