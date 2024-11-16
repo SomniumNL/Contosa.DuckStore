@@ -170,8 +170,15 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contosa.DuckStore.Central.WebApi.Tool", "Tools\Contosa.DuckStore.Central.WebApi.Tool\Contosa.DuckStore.Central.WebApi.Tool.csproj", "{62CD2357-7871-4B51-9C21-55000682D247}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sql Scripts", "Sql Scripts", "{9B7FEBDC-E7B4-4364-9F21-11A09FD681B1}"
+	ProjectSection(SolutionItems) = preProject
+		Data\Sql Scripts\Create Tables.sql = Data\Sql Scripts\Create Tables.sql
+		Data\Sql Scripts\Insert Default.sql = Data\Sql Scripts\Insert Default.sql
+	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Excel", "Excel", "{3C14A53B-80D3-4D12-8777-91D88AF1FF62}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSV", "CSV", "{3C14A53B-80D3-4D12-8777-91D88AF1FF62}"
+	ProjectSection(SolutionItems) = preProject
+		Data\Csv\Products.csv = Data\Csv\Products.csv
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
