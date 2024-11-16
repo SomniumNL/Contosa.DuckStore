@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Contosa.DuckStore.Management.Business.Entities\Contosa.DuckStore.Management.Business.Entities.csproj" />
+    <ProjectReference Include="..\Contosa.DuckStore.Management.DataAccess.Entities\Contosa.DuckStore.Management.DataAccess.Entities.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore.Management.DataAccess\Contosa.DuckStore.Management.DataAccess.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore\Contosa.DuckStore.csproj" />
     <ProjectReference Include="..\Contosa\Contosa.csproj" />
