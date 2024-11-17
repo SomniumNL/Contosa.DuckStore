@@ -36,9 +36,9 @@ Duck Store is your go-to (fictional) online shop for all things duck! From charm
 - Eric Cartman (Human Resources) ~ [Eric.Cartman@Contosa.net](mailto:Eric.Cartman@Contosa.net) 
 
 ## Release History
-- 0.9.0 ~ https://contosa.net/DevOps/Release_0.9.0
+- 0.9.0 (2024-08-15) ~ https://contosa.net/DevOps/Release_0.9.0
   - FEATURE: Duck Store website - Added browsing
-- 1.0.0 ~ https://contosa.net/DevOps/Release_1.0.0
+- 1.0.0 (2024-11-18) ~ https://contosa.net/DevOps/Release_1.0.0
   - FEATURE: Duck Store website - Added selling integration
 
 ## Somnium.nl
