@@ -2,12 +2,10 @@
 <DirectedGraph DataVirtualized="True" Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
   <Nodes>
     <Node Id="(@15)" Category="CodeSchema_Assembly" Bounds="2087.7619193609,1323.37967001116,162.886666666667,25" CodeSchemaProperty_StrongName="TestAreaConsole, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(bf0791de-ec23-45d8-a481-f39ef5d6a336.OutputPath)" Group="Collapsed" Label="TestAreaConsole.dll" />
-    <Node Id="(@28)" Category="CodeSchema_Assembly" Bounds="2572.21081592454,1331.00595978752,285.273333333333,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.Central.WebApi.Tool, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(62cd2357-7871-4b51-9c21-55000682d247.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.Central.WebApi.Tool.dll" />
     <Node Id="1. Unit Tests{CCD97DB9-625C-427F-9235-7BA9F76DA3A0}" Category="CodeMap_SolutionFolder" Bounds="1552.35858602756,1312.48370535117,465.403333333336,305.000600000347" Group="Expanded" Label="1. Unit Tests" />
-    <Node Id="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" Category="CodeMap_SolutionFolder" Bounds="-125.981739172797,385,4258.2725,650.001313636263" Group="Expanded" Label="2. Source" />
+    <Node Id="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" Category="CodeMap_SolutionFolder" Bounds="-93.491739172797,384.999789999828,4225.7825,650.0012" Group="Expanded" Label="2. Source" />
     <Node Id="3. Tests{7C9C8983-3523-498D-88A7-C70BC8583460}" Category="CodeMap_SolutionFolder" Bounds="1532.35858602756,1272.48360535117,505.403333333336,365.000800000347" Group="Expanded" Label="3. Tests" UseManualLocation="True" />
     <Node Id="5. Test Area{001C0DF9-D213-45B7-A234-BBCA4473C532}" Category="CodeMap_SolutionFolder" Bounds="2067.7619193609,1283.37939001117,441.920000000003,305.0007" Group="Expanded" Label="5. Test Area" UseManualLocation="True" />
-    <Node Id="7. Tools{A9085A48-D33F-4654-AD74-9185230A1805}" Category="CodeMap_SolutionFolder" Bounds="2552.21081592454,1291.00585978752,325.273333333333,85.0001999992" Group="Expanded" Label="7. Tools" UseManualLocation="True" />
     <Node Id="@10" Category="CodeSchema_Assembly" Bounds="2087.7619193609,1378.37969001117,265.876666666667,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.TestAreaConsole, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(139df53f-a8c0-492e-8324-58da2ca0ebf6.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.TestAreaConsole.dll" />
     <Node Id="@12" Category="CodeSchema_Assembly" Bounds="2087.7619193609,1433.37979001117,318.096666666666,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.PublicApi.TestAreaConsole, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(394fbf93-343d-4e1a-beb8-40e29ba5e569.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.PublicApi.TestAreaConsole.dll" />
     <Node Id="@14" Category="CodeSchema_Assembly" Bounds="2087.7619193609,1543.37999001117,339.07,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.Management.TestAreaConsole, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(4ff4db25-81b6-4d62-9b10-5b38197f11ec.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.Management.TestAreaConsole.dll" />
@@ -49,10 +47,10 @@
     <Node Id="@80" Category="CodeSchema_Assembly" Bounds="3397.9357608272,657.5002,249.063333333334,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.Management, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(e42b2bd7-ba65-4f4e-82dc-e7966cad0f2e.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.Management.dll" />
     <Node Id="Contosa (Framework){EC227BE6-8CA0-4425-B9E3-D44B74096F73}" Category="CodeMap_SolutionFolder" Bounds="2176.52492749387,930.001013636263,159.026666666667,85.0001999999999" Group="Expanded" Label="Contosa (Framework)" />
     <Node Id="Contosa.DuckStore (DuckStore base){315753C2-F1AC-4BD0-B0A4-2266C903B9E2}" Category="CodeMap_SolutionFolder" Bounds="2134.45659416053,760.000713636263,243.163333333334,140.0002" Group="Expanded" Label="Contosa.DuckStore (DuckStore base)" />
-    <Node Id="Contosa.DuckStore.Central (Internal Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" Category="CodeMap_SolutionFolder" Bounds="1872.4082608272,425.0001,1073.26,305.000513636263" Group="Expanded" Label="Contosa.DuckStore.Central (Internal Web API)" />
+    <Node Id="Contosa.DuckStore.Central (Internal Web API){56634B73-CB21-4AFC-8D7E-3BA510D4AD0A}" Category="CodeMap_SolutionFolder" Bounds="1872.4082608272,424.999889999828,1040.94333333333,305.0004" Group="Expanded" Label="Contosa.DuckStore.Central (Internal Web API)" />
     <Node Id="Contosa.DuckStore.Management (Internal Website){80705126-55FB-4F48-B691-FB644F107B58}" Category="CodeMap_SolutionFolder" Bounds="2975.7857608272,452.499999999967,1136.505,250.000400000033" Group="Expanded" Label="Contosa.DuckStore.Management (Internal Website)" />
-    <Node Id="Contosa.DuckStore.OnlineStore (Public Website){7F0C3B15-2D9E-4A2B-BC0E-4AC77D354F7D}" Category="CodeMap_SolutionFolder" Bounds="-105.981739172797,452.500113636263,808.04,250.0005" Group="Expanded" Label="Contosa.DuckStore.OnlineStore (Public Website)" />
-    <Node Id="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Category="CodeMap_SolutionFolder" Bounds="732.440760827203,425.0001,1109.195,305.000513636263" Group="Expanded" Label="Contosa.DuckStore.PublicApi (Public Web API)" />
+    <Node Id="Contosa.DuckStore.OnlineStore (Public Website){7F0C3B15-2D9E-4A2B-BC0E-4AC77D354F7D}" Category="CodeMap_SolutionFolder" Bounds="-73.4917391727971,452.5001,775.549999999999,250.0002" Group="Expanded" Label="Contosa.DuckStore.OnlineStore (Public Website)" />
+    <Node Id="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Category="CodeMap_SolutionFolder" Bounds="732.440760827203,425.000057142855,1076.81333333333,305.0004" Group="Expanded" Label="Contosa.DuckStore.PublicApi (Public Web API)" />
   </Nodes>
   <Links>
     <Link Source="1. Unit Tests{CCD97DB9-625C-427F-9235-7BA9F76DA3A0}" Target="@68" Category="Contains" FetchingParent="1. Unit Tests{CCD97DB9-625C-427F-9235-7BA9F76DA3A0}" />
@@ -74,7 +72,6 @@
     <Link Source="5. Test Area{001C0DF9-D213-45B7-A234-BBCA4473C532}" Target="@14" Category="Contains" FetchingParent="5. Test Area{001C0DF9-D213-45B7-A234-BBCA4473C532}" />
     <Link Source="5. Test Area{001C0DF9-D213-45B7-A234-BBCA4473C532}" Target="@6" Category="Contains" FetchingParent="5. Test Area{001C0DF9-D213-45B7-A234-BBCA4473C532}" />
     <Link Source="5. Test Area{001C0DF9-D213-45B7-A234-BBCA4473C532}" Target="@8" Category="Contains" FetchingParent="5. Test Area{001C0DF9-D213-45B7-A234-BBCA4473C532}" />
-    <Link Source="7. Tools{A9085A48-D33F-4654-AD74-9185230A1805}" Target="(@28)" Category="Contains" FetchingParent="7. Tools{A9085A48-D33F-4654-AD74-9185230A1805}" />
     <Link Source="@10" Target="@19" Category="CodeMap_ProjectReference" Bounds="-101.118364639795,-10.5,2576.63323982683,478.856772915667" />
     <Link Source="@10" Target="@2" Category="CodeMap_ProjectReference" Bounds="-113.583935687193,-10.5,2601.66637879713,593.505932297767" />
     <Link Source="@10" Target="@4" Category="CodeMap_ProjectReference" Bounds="-92.9068420211467,-10.5,2560.17964394348,424.03063449992" />
@@ -100,22 +97,22 @@
     <Link Source="@19" Target="@2" Category="CodeMap_ProjectReference" />
     <Link Source="@21" Target="@19" Category="CodeMap_ProjectReference" Bounds="495.495000000001,482.500804000014,475.080000000001,0" />
     <Link Source="@21" Target="@2" Category="CodeMap_ProjectReference" Bounds="409.252009803922,495.000804000014,571.118164709695,142.81664550199" />
-    <Link Source="@21" Target="@25" Category="CodeMap_ProjectReference" Bounds="1530.09033203125,490.000213623047,290.54541015625,195.986175537109" />
-    <Link Source="@21" Target="@32" Category="CodeMap_ProjectReference" Bounds="1484.6357421875,490.000213623047,145.660400390625,131.053070068359" />
-    <Link Source="@21" Target="@38" Category="CodeMap_ExternalReference" Bounds="1251.70983886719,490.000213623047,152.925903320313,131.159637451172" />
+    <Link Source="@21" Target="@25" Category="CodeMap_ProjectReference" Bounds="1450.4326171875,490.000152587891,149.674072265625,186.319427490234" />
+    <Link Source="@21" Target="@32" Category="CodeMap_ProjectReference" Bounds="1466.88000488281,490.000152587891,157.040161132813,131.699310302734" />
+    <Link Source="@21" Target="@38" Category="CodeMap_ExternalReference" Bounds="1258.56762695313,490.000152587891,163.823852539063,132.064178466797" />
     <Link Source="@21" Target="@4" Category="CodeMap_ProjectReference" Bounds="494.628528100201,492.813977554002,475.978192543859,36.2641678782536" />
-    <Link Source="@21" Target="@46" Category="CodeMap_ProjectReference" Bounds="918.256896972656,486.323760986328,390.327209472656,80.2182922363281" />
-    <Link Source="@21" Target="@54" Category="CodeMap_ExternalReference" Bounds="1444.6357421875,490.000213623047,0,75.9999694824219" />
-    <Link Source="@21" Target="@62" Category="CodeMap_ProjectReference" Bounds="1186.9326171875,490.000213623047,179.294067382813,28.5830993652344" />
+    <Link Source="@21" Target="@46" Category="CodeMap_ProjectReference" Bounds="1049.72412109375,490.000152587891,363.182861328125,84.1394348144531" />
+    <Link Source="@21" Target="@54" Category="CodeMap_ExternalReference" Bounds="1444.6357608272,490.000157142855,0,76.0000000000001" />
+    <Link Source="@21" Target="@62" Category="CodeMap_ProjectReference" Bounds="1186.93276276189,490.000157142855,179.293764593977,28.583011951572" />
     <Link Source="@23" Target="@19" Category="CodeMap_ProjectReference" Bounds="773.614957264958,105.000804000014,278.634625810059,357.898419328307" />
     <Link Source="@23" Target="@2" Category="CodeMap_ProjectReference" Bounds="770.026302083334,105.000804000014,258.94956485481,526.922680615153" />
-    <Link Source="@23" Target="@27" Category="CodeMap_ProjectReference" Bounds="2643.3955078125,490.000213623047,281.272705078125,196.094329833984" />
-    <Link Source="@23" Target="@34" Category="CodeMap_ProjectReference" Bounds="2599.3046875,490.000213623047,141.02392578125,131.053070068359" />
+    <Link Source="@23" Target="@27" Category="CodeMap_ProjectReference" Bounds="2566.44799804688,490,143.756103515625,186.317565917969" />
+    <Link Source="@23" Target="@34" Category="CodeMap_ProjectReference" Bounds="2582.06323242188,490,151.90576171875,131.696838378906" />
     <Link Source="@23" Target="@4" Category="CodeMap_ProjectReference" Bounds="772.795505617978,105.000804000014,294.224213040615,412.671854351894" />
-    <Link Source="@23" Target="@40" Category="CodeMap_ExternalReference" Bounds="2373.74243164063,490.000213623047,148.28955078125,131.159637451172" />
-    <Link Source="@23" Target="@48" Category="CodeMap_ProjectReference" Bounds="2052.28930664063,486.296661376953,378.2548828125,80.2453918457031" />
-    <Link Source="@23" Target="@56" Category="CodeMap_ExternalReference" Bounds="2560.66821289063,490.000213623047,0,75.9999694824219" />
-    <Link Source="@23" Target="@64" Category="CodeMap_ProjectReference" Bounds="2312.22973632813,490.000213623047,172.756591796875,28.5333557128906" />
+    <Link Source="@23" Target="@40" Category="CodeMap_ExternalReference" Bounds="2380.58447265625,490,158.688720703125,132.061401367188" />
+    <Link Source="@23" Target="@48" Category="CodeMap_ProjectReference" Bounds="2179.14428710938,490,350.771728515625,84.108154296875" />
+    <Link Source="@23" Target="@56" Category="CodeMap_ExternalReference" Bounds="2560.6682608272,489.999989999828,0,75.9999999999999" />
+    <Link Source="@23" Target="@64" Category="CodeMap_ProjectReference" Bounds="2312.22991496619,489.999989999828,172.756390075643,28.5332858213854" />
     <Link Source="@25" Target="@19" Category="CodeMap_ProjectReference" Bounds="193.035000000001,482.500804000014,777.540000000001,0" />
     <Link Source="@25" Target="@2" Category="CodeMap_ProjectReference" Bounds="149.585465686275,495.000804000014,822.037710566345,145.554268708183" />
     <Link Source="@25" Target="@4" Category="CodeMap_ProjectReference" Bounds="193.035000000001,488.759718019639,777.553523163156,42.6729856384237" />
@@ -125,102 +122,102 @@
     <Link Source="@30" Target="@19" Category="CodeMap_ProjectReference" Bounds="156.314241071429,215.000804000014,859.98094989952,252.464853840649" />
     <Link Source="@30" Target="@2" Category="CodeMap_ProjectReference" Bounds="139.43925925926,215.000804000014,865.851107664881,421.06402431777" />
     <Link Source="@30" Target="@4" Category="CodeMap_ProjectReference" Bounds="149.832823383085,215.000804000014,886.721480267481,307.055037244641" />
-    <Link Source="@30" Target="@50" Category="CodeMap_ProjectReference" Bounds="3164.46752929688,517.500183105469,129.262939453125,76" />
-    <Link Source="@30" Target="@66" Category="CodeMap_ProjectReference" Bounds="3343.46752929688,517.500183105469,0,21" />
-    <Link Source="@30" Target="@80" Category="CodeMap_ProjectReference" Bounds="3393.20434570313,517.500183105469,129.26318359375,131" />
+    <Link Source="@30" Target="@50" Category="CodeMap_ProjectReference" Bounds="3170.08520507813,517.500122070313,112.196044921875,76.3004760742188" />
+    <Link Source="@30" Target="@66" Category="CodeMap_ProjectReference" Bounds="3343.46742749387,517.500099999967,4.54747350886464E-13,21.0001" />
+    <Link Source="@30" Target="@80" Category="CodeMap_ProjectReference" Bounds="3404.65356445313,517.500122070313,114.49560546875,131.106506347656" />
     <Link Source="@32" Target="@19" Category="CodeMap_ProjectReference" Bounds="193.22595959596,496.547309788832,793.755280832855,138.453494211183" />
     <Link Source="@32" Target="@2" Category="CodeMap_ProjectReference" Bounds="278.181666666668,648.35428664808,692.393466964278,3.77315858948953" />
-    <Link Source="@32" Target="@25" Category="CodeMap_ProjectReference" Bounds="1496.0009765625,655.000183105469,93.907470703125,27.4729614257813" />
+    <Link Source="@32" Target="@25" Category="CodeMap_ProjectReference" Bounds="1496.00089334572,655.000257142855,93.9076724400225,27.4730392285558" />
     <Link Source="@32" Target="@4" Category="CodeMap_ProjectReference" Bounds="230.608030303031,549.95200900913,741.929606193509,85.0487949908844" />
     <Link Source="@34" Target="@19" Category="CodeMap_ProjectReference" Bounds="567.466018518519,270.000804000014,462.346539907435,196.479996498005" />
     <Link Source="@34" Target="@2" Category="CodeMap_ProjectReference" Bounds="553.907257383967,270.000804000014,462.257732578377,364.428027958949" />
-    <Link Source="@34" Target="@27" Category="CodeMap_ProjectReference" Bounds="2610.64721679688,655.000183105469,90.657470703125,27.3965454101563" />
+    <Link Source="@34" Target="@27" Category="CodeMap_ProjectReference" Bounds="2610.64702840173,655.000089999828,90.6576712683081,27.3965988215609" />
     <Link Source="@34" Target="@4" Category="CodeMap_ProjectReference" Bounds="562.297425595239,270.000804000014,486.614022570549,250.875845959351" />
-    <Link Source="@36" Target="@17" Category="CodeMap_ProjectReference" Bounds="361.841430664063,627.500183105469,102.040466308594,27.6464233398438" />
+    <Link Source="@36" Target="@17" Category="CodeMap_ProjectReference" Bounds="361.841436822361,627.5002,102.040460368478,27.646430149095" />
     <Link Source="@36" Target="@19" Category="CodeMap_ProjectReference" Bounds="756.283579545455,499.993367610731,284.98956282979,190.007436389283" />
     <Link Source="@36" Target="@2" Category="CodeMap_ProjectReference" Bounds="812.923333333334,663.749829421436,158.321377748379,26.2509745785784" />
     <Link Source="@36" Target="@4" Category="CodeMap_ProjectReference" Bounds="763.566944444445,553.89656563593,283.444637739782,136.104238364085" />
     <Link Source="@38" Target="@19" Category="CodeMap_ProjectReference" Bounds="173.253636363637,497.535709251965,843.0370885955,247.465094748049" />
     <Link Source="@38" Target="@2" Category="CodeMap_ProjectReference" Bounds="238.815039682541,660.413072706311,731.819484593083,84.5877312937033" />
-    <Link Source="@38" Target="@25" Category="CodeMap_ProjectReference" Bounds="1292.40844726563,655.000183105469,98.7861328125,27.5798950195313" />
+    <Link Source="@38" Target="@25" Category="CodeMap_ProjectReference" Bounds="1292.40840669512,655.000257142855,98.7862076863992,27.5799558445317" />
     <Link Source="@38" Target="@4" Category="CodeMap_ProjectReference" Bounds="184.674924242425,552.030292798027,833.708627078818,192.970511201988" />
-    <Link Source="@4" Target="@19" Category="CodeMap_ProjectReference" Bounds="2256.03833007813,825.000183105469,0,21" />
+    <Link Source="@4" Target="@19" Category="CodeMap_ProjectReference" Bounds="2256.0382608272,825.000439999778,4.54747350886464E-13,21.0001000000001" />
     <Link Source="@4" Target="@2" Category="CodeMap_ProjectReference" />
     <Link Source="@40" Target="@19" Category="CodeMap_ProjectReference" Bounds="603.71829710145,380.000804000014,398.443795141643,88.0578258446157" />
     <Link Source="@40" Target="@2" Category="CodeMap_ProjectReference" Bounds="568.734210526317,380.000804000014,440.990771410035,255.488321208017" />
-    <Link Source="@40" Target="@27" Category="CodeMap_ProjectReference" Bounds="2413.07739257813,655.000183105469,95.533203125,27.5095825195313" />
+    <Link Source="@40" Target="@27" Category="CodeMap_ProjectReference" Bounds="2413.07727281082,655.000089999828,95.5334063980763,27.5096696609152" />
     <Link Source="@40" Target="@4" Category="CodeMap_ProjectReference" Bounds="586.422916666668,380.000804000014,446.893259044367,142.269833621595" />
     <Link Source="@42" Target="@19" Category="CodeMap_ProjectReference" Bounds="241.847246376813,380.000804000014,730.010206949387,90.6254350023167" />
     <Link Source="@42" Target="@2" Category="CodeMap_ProjectReference" Bounds="180.539634502925,380.000804000014,810.587453709543,257.277288331762" />
     <Link Source="@42" Target="@4" Category="CodeMap_ProjectReference" Bounds="210.274313725491,380.000804000014,792.908373112127,143.398322796874" />
-    <Link Source="@42" Target="@80" Category="CodeMap_ProjectReference" Bounds="3578.21118164063,627.500183105469,104.210693359375,27.6889038085938" />
-    <Link Source="@44" Target="@17" Category="CodeMap_ProjectReference" Bounds="155.563720703125,627.500183105469,98.2437896728516,27.5684204101563" />
+    <Link Source="@42" Target="@80" Category="CodeMap_ProjectReference" Bounds="3578.2109986736,627.5002,104.211059811843,27.6889792790216" />
+    <Link Source="@44" Target="@17" Category="CodeMap_ProjectReference" Bounds="155.563715372657,627.5002,98.2437936126846,27.5684114729472" />
     <Link Source="@44" Target="@19" Category="CodeMap_ProjectReference" Bounds="755.573560606062,498.953647924014,278.282396432912,136.047156076" />
     <Link Source="@44" Target="@2" Category="CodeMap_ProjectReference" Bounds="894.515000000001,650.162060403358,76.0611773785513,1.23043155640687" />
     <Link Source="@44" Target="@4" Category="CodeMap_ProjectReference" Bounds="769.90859848485,552.691185363255,262.755997881779,82.3096186367592" />
     <Link Source="@46" Target="@19" Category="CodeMap_ProjectReference" Bounds="176.797386363637,497.042763167832,828.289931912219,192.958040832182" />
     <Link Source="@46" Target="@2" Category="CodeMap_ProjectReference" Bounds="281.205974522734,656.240095360527,689.38240502042,37.6321665716455" />
-    <Link Source="@46" Target="@25" Category="CodeMap_ProjectReference" Bounds="935.181213378906,600.000183105469,387.009948730469,86.9121704101563" />
+    <Link Source="@46" Target="@25" Category="CodeMap_ProjectReference" Bounds="936.581237792969,600.000183105469,385.629211425781,86.8731079101563" />
     <Link Source="@46" Target="@4" Category="CodeMap_ProjectReference" Bounds="195.717020202021,551.528390245211,803.99321364039,138.472413754803" />
     <Link Source="@48" Target="@19" Category="CodeMap_ProjectReference" Bounds="578.443161764707,325.000804000014,441.685284713537,142.241155817057" />
     <Link Source="@48" Target="@2" Category="CodeMap_ProjectReference" Bounds="557.990833333334,325.000804000014,455.295205768222,309.935470230239" />
-    <Link Source="@48" Target="@27" Category="CodeMap_ProjectReference" Bounds="2067.85009765625,600.000183105469,376.2216796875,87.065185546875" />
+    <Link Source="@48" Target="@27" Category="CodeMap_ProjectReference" Bounds="2069.63720703125,600,374.443359375,87.045166015625" />
     <Link Source="@48" Target="@4" Category="CodeMap_ProjectReference" Bounds="569.713240740742,325.000804000014,473.047360526337,196.546790937549" />
     <Link Source="@50" Target="@19" Category="CodeMap_ProjectReference" Bounds="202.29455882353,325.000804000014,787.693058825607,143.388167687277" />
     <Link Source="@50" Target="@2" Category="CodeMap_ProjectReference" Bounds="166.915698529413,325.000804000014,830.4580235579,311.836202905353" />
     <Link Source="@50" Target="@4" Category="CodeMap_ProjectReference" Bounds="186.267222222223,325.000804000014,833.492380209346,197.920683827533" />
-    <Link Source="@50" Target="@80" Category="CodeMap_ProjectReference" Bounds="3245.8310546875,627.500183105469,186.377197265625,28.6333618164063" />
-    <Link Source="@52" Target="@17" Category="CodeMap_ProjectReference" Bounds="307.018249511719,572.500183105469,0,76" />
+    <Link Source="@50" Target="@80" Category="CodeMap_ProjectReference" Bounds="3245.83106385746,627.500299999967,186.377094928263,28.633352572795" />
+    <Link Source="@52" Target="@17" Category="CodeMap_ProjectReference" Bounds="307.018260827203,572.5002,1.70530256582424E-13,76" />
     <Link Source="@52" Target="@19" Category="CodeMap_ProjectReference" Bounds="756.960681818183,497.696696241322,262.148559466923,82.3041077586927" />
     <Link Source="@52" Target="@2" Category="CodeMap_ProjectReference" Bounds="784.217847222223,605.000804000014,187.79874978118,34.999896420793" />
-    <Link Source="@52" Target="@36" Category="CodeMap_ProjectReference" Bounds="353.154632568359,572.500183105469,102.040466308594,27.6464233398438" />
+    <Link Source="@52" Target="@36" Category="CodeMap_ProjectReference" Bounds="353.154624463567,572.5002,102.040460368478,27.646430149095" />
     <Link Source="@52" Target="@4" Category="CodeMap_ProjectReference" Bounds="799.876212121213,551.345395109738,189.651916184538,28.6554088902765" />
     <Link Source="@54" Target="@19" Category="CodeMap_ProjectReference" Bounds="219.057613636365,493.554601107929,752.261406521692,86.4462028920854" />
     <Link Source="@54" Target="@2" Category="CodeMap_ProjectReference" Bounds="255.257374033644,601.866092551653,715.336346047009,46.2100265891221" />
-    <Link Source="@54" Target="@25" Category="CodeMap_ProjectReference" Bounds="1444.6357421875,600.000183105469,0,76" />
-    <Link Source="@54" Target="@38" Category="CodeMap_ProjectReference" Bounds="1301.07702636719,600.000183105469,98.7860107421875,27.5798950195313" />
+    <Link Source="@54" Target="@25" Category="CodeMap_ProjectReference" Bounds="1444.6357608272,600.000157142855,0,76.0002000000001" />
+    <Link Source="@54" Target="@38" Category="CodeMap_ProjectReference" Bounds="1301.07690727289,600.000157142855,98.7862076863996,27.5799558445317" />
     <Link Source="@54" Target="@4" Category="CodeMap_ProjectReference" Bounds="255.564715772695,543.76443144201,715.024691025831,40.5060981139908" />
     <Link Source="@56" Target="@19" Category="CodeMap_ProjectReference" Bounds="550.91017857143,215.000804000014,484.467535828949,250.86161562323" />
     <Link Source="@56" Target="@2" Category="CodeMap_ProjectReference" Bounds="541.001064814816,215.000804000014,477.094285616696,419.060600721908" />
-    <Link Source="@56" Target="@27" Category="CodeMap_ProjectReference" Bounds="2560.66821289063,600.000183105469,0,76" />
+    <Link Source="@56" Target="@27" Category="CodeMap_ProjectReference" Bounds="2560.6682608272,599.999989999828,0,76.0002000000001" />
     <Link Source="@56" Target="@4" Category="CodeMap_ProjectReference" Bounds="547.456069651742,215.000804000014,505.311644536839,305.34536831064" />
-    <Link Source="@56" Target="@40" Category="References" Bounds="2421.72583007813,600.000183105469,95.533447265625,27.5095825195313" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="64">
+    <Link Source="@56" Target="@40" Category="References" Bounds="2421.72584244551,599.999989999828,95.5334063980767,27.5096696609155" IsSourceVirtualized="True" IsTargetVirtualized="True" Weight="64">
       <Category Ref="CodeMap_ProjectReference" />
     </Link>
     <Link Source="@58" Target="@19" Category="CodeMap_ProjectReference" Bounds="173.365092592593,270.000804000014,832.792028798038,197.919044948437" />
     <Link Source="@58" Target="@2" Category="CodeMap_ProjectReference" Bounds="149.829092827005,270.000804000014,851.930858279853,366.443820259323" />
     <Link Source="@58" Target="@4" Category="CodeMap_ProjectReference" Bounds="163.642812500001,270.000804000014,865.999101145151,252.480939120782" />
-    <Link Source="@58" Target="@42" Category="CodeMap_ProjectReference" Bounds="3785.21118164063,572.500183105469,104.210693359375,27.6889038085938" />
-    <Link Source="@58" Target="@80" Category="CodeMap_ProjectReference" Bounds="3655.07958984375,572.500183105469,281.387939453125,86.405029296875" />
+    <Link Source="@58" Target="@42" Category="CodeMap_ProjectReference" Bounds="3785.2109986736,572.5001,104.211059811846,27.6889792790216" />
+    <Link Source="@58" Target="@80" Category="CodeMap_ProjectReference" Bounds="3528.10693359375,572.46142578125,256.91650390625,76.3414306640625" />
     <Link Source="@6" Target="@19" Category="CodeMap_ExternalReference" Bounds="53.0788371203849,-65.5,2432.76128802944,533.573106263909" />
     <Link Source="@6" Target="@2" Category="CodeMap_ProjectReference" Bounds="43.3762561701819,-65.5,2452.25632888519,648.201264227996" />
     <Link Source="@6" Target="@4" Category="CodeMap_ProjectReference" Bounds="59.2797560257886,-65.5,2420.32155686741,478.754810532693" />
-    <Link Source="@60" Target="@17" Category="CodeMap_ProjectReference" Bounds="-84.9817428588867,517.500183105469,263.840812683105,140.986877441406" />
+    <Link Source="@60" Target="@17" Category="CodeMap_ProjectReference" Bounds="116.527137756348,517.500183105469,184.665519714355,131.322326660156" />
     <Link Source="@60" Target="@19" Category="CodeMap_ProjectReference" Bounds="790.956060606062,496.367849347242,186.318974252053,28.6329546527724" />
     <Link Source="@60" Target="@2" Category="CodeMap_ProjectReference" Bounds="745.428804347827,550.000804000014,249.350135408534,87.0340866093131" />
-    <Link Source="@60" Target="@36" Category="CodeMap_ProjectReference" Bounds="244.662811279297,517.500183105469,257.734313964844,76.5418701171875" />
+    <Link Source="@60" Target="@36" Category="CodeMap_ProjectReference" Bounds="249.198699951172,517.500183105469,249.963531494141,77.0507202148438" />
     <Link Source="@60" Target="@4" Category="CodeMap_ProjectReference" Bounds="853.738333333334,537.500804000014,116.836666666667,0" />
-    <Link Source="@60" Target="@44" Category="CodeMap_ProjectReference" Bounds="111.018257141113,517.500183105469,0,76" />
-    <Link Source="@60" Target="@52" Category="CodeMap_ProjectReference" Bounds="155.563720703125,517.500183105469,98.2437896728516,27.5684204101563" />
+    <Link Source="@60" Target="@44" Category="CodeMap_ProjectReference" Bounds="111.018260827203,517.5002,3.12638803734444E-13,76" />
+    <Link Source="@60" Target="@52" Category="CodeMap_ProjectReference" Bounds="155.563715372658,517.5002,98.2437936126846,27.5684114729472" />
     <Link Source="@62" Target="@19" Category="CodeMap_ProjectReference" Bounds="240.545678441742,488.026148935719,730.043911171673,41.619143081886" />
     <Link Source="@62" Target="@2" Category="CodeMap_ProjectReference" Bounds="204.527391304349,550.000804000014,766.114730625745,94.093499868595" />
-    <Link Source="@62" Target="@25" Category="CodeMap_ProjectReference" Bounds="1059.86267089844,545.000183105469,262.49365234375,141.599609375" />
-    <Link Source="@62" Target="@38" Category="CodeMap_ProjectReference" Bounds="1116.45397949219,545.000183105469,107.140258789063,79.6312866210938" />
+    <Link Source="@62" Target="@25" Category="CodeMap_ProjectReference" Bounds="1130.15209960938,545.000061035156,308.715087890625,131.316528320313" />
+    <Link Source="@62" Target="@38" Category="CodeMap_ProjectReference" Bounds="1116.45391206693,545.000057142855,107.140342839572,79.6314806785236" />
     <Link Source="@62" Target="@4" Category="CodeMap_ProjectReference" Bounds="240.558333333334,537.500804000014,730.016666666667,0" />
-    <Link Source="@62" Target="@46" Category="CodeMap_ProjectReference" Bounds="962.231811523438,545.000183105469,94.449462890625,27.4852905273438" />
-    <Link Source="@62" Target="@54" Category="CodeMap_ProjectReference" Bounds="1178.04479980469,545.000183105469,179.294067382813,28.5831298828125" />
+    <Link Source="@62" Target="@46" Category="CodeMap_ProjectReference" Bounds="962.231761623345,545.000057142855,94.4495318483441,27.4853634741381" />
+    <Link Source="@62" Target="@54" Category="CodeMap_ProjectReference" Bounds="1178.04470917457,545.000057142855,179.294335642938,28.5832069269426" />
     <Link Source="@64" Target="@19" Category="CodeMap_ProjectReference" Bounds="539.697835820896,160.000804000014,499.674456010644,305.307499523165" />
     <Link Source="@64" Target="@2" Category="CodeMap_ProjectReference" Bounds="532.107533003301,160.000804000014,487.6577806801,473.728900243566" />
-    <Link Source="@64" Target="@27" Category="CodeMap_ProjectReference" Bounds="2187.87841796875,545.000183105469,256.35693359375,141.725524902344" />
+    <Link Source="@64" Target="@27" Category="CodeMap_ProjectReference" Bounds="2257.2080078125,544.999877929688,297.708984375,131.314697265625" />
     <Link Source="@64" Target="@4" Category="CodeMap_ProjectReference" Bounds="537.25014957265,160.000804000014,518.502682449113,359.868390013621" />
-    <Link Source="@64" Target="@40" Category="CodeMap_ProjectReference" Bounds="2243.8046875,545.000183105469,102.6123046875,79.4884643554688" />
-    <Link Source="@64" Target="@48" Category="CodeMap_ProjectReference" Bounds="2094.87841796875,545.000183105469,91.198974609375,27.4095458984375" />
-    <Link Source="@64" Target="@56" Category="CodeMap_ProjectReference" Bounds="2303.35009765625,545.000183105469,172.756591796875,28.5333862304688" />
+    <Link Source="@64" Target="@40" Category="CodeMap_ProjectReference" Bounds="2243.80459512478,544.999889999828,102.612387945794,79.488614059964" />
+    <Link Source="@64" Target="@48" Category="CodeMap_ProjectReference" Bounds="2094.87823217808,544.999889999828,91.1991951779141,27.4096440147802" />
+    <Link Source="@64" Target="@56" Category="CodeMap_ProjectReference" Bounds="2303.34994140597,544.999889999828,172.756941346326,28.5334806298559" />
     <Link Source="@66" Target="@19" Category="CodeMap_ProjectReference" Bounds="148.845485074628,160.000804000014,874.565430056069,307.018880789135" />
     <Link Source="@66" Target="@2" Category="CodeMap_ProjectReference" Bounds="136.155412541255,160.000804000014,872.114748814601,475.690390615514" />
     <Link Source="@66" Target="@4" Category="CodeMap_ProjectReference" Bounds="144.261356837608,160.000804000014,897.524446927913,361.636433826427" />
-    <Link Source="@66" Target="@50" Category="CodeMap_ProjectReference" Bounds="3213.75219726563,572.500183105469,89.033447265625,27.3566284179688" />
-    <Link Source="@66" Target="@80" Category="CodeMap_ProjectReference" Bounds="3363.80834960938,572.500183105469,130.650390625,80.2879028320313" />
+    <Link Source="@66" Target="@50" Category="CodeMap_ProjectReference" Bounds="3213.75221994755,572.500199999967,89.0334633313128,27.3567004836231" />
+    <Link Source="@66" Target="@80" Category="CodeMap_ProjectReference" Bounds="3363.80831809305,572.500199999967,130.650355739993,80.2880010974252" />
     <Link Source="@68" Target="@2" Category="CodeMap_ProjectReference" Bounds="-57.9495552223888,-55.5,2419.50799730385,972.144570175457" />
     <Link Source="@70" Target="@17" Category="CodeMap_ProjectReference" Bounds="-17.1900701083493,109.5,433.214079240822,491.24981232752" />
     <Link Source="@70" Target="@19" Category="CodeMap_ProjectReference" Bounds="13.9315891741846,109.5,2336.31500914964,692.940830752767" />
@@ -372,7 +369,6 @@
     <Alias n="25" Id="(@24)" />
     <Alias n="26" Uri="Assembly=$(722f657a-6283-49be-a245-e76894c58bc0.OutputPathUri)" />
     <Alias n="27" Id="(@26)" />
-    <Alias n="28" Uri="Assembly=$(62cd2357-7871-4b51-9c21-55000682d247.OutputPathUri)" />
     <Alias n="29" Uri="Assembly=$(9537335a-c881-4d7b-ac53-82a8ec3528c9.OutputPathUri)" />
     <Alias n="30" Id="(@29)" />
     <Alias n="31" Uri="Assembly=$(37710d4c-dc9b-4e1c-8ae2-904df797a930.OutputPathUri)" />
@@ -664,8 +660,6 @@
     <Path Id="4f779d6a-fca1-4092-8cb1-665082608caf.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Tests/Contosa.DuckStore.UnitTests/bin/Debug/net9.0/Contosa.DuckStore.UnitTests.dll" />
     <Path Id="4ff4db25-81b6-4d62-9b10-5b38197f11ec.OutputPath" Value="C:\repos\Contosa.DuckStore\Test Area\Contosa.DuckStore.Management.TestAreaConsole\bin\Debug\net9.0\Contosa.DuckStore.Management.TestAreaConsole.dll" />
     <Path Id="4ff4db25-81b6-4d62-9b10-5b38197f11ec.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Test Area/Contosa.DuckStore.Management.TestAreaConsole/bin/Debug/net9.0/Contosa.DuckStore.Management.TestAreaConsole.dll" />
-    <Path Id="62cd2357-7871-4b51-9c21-55000682d247.OutputPath" Value="C:\repos\Contosa.DuckStore\Tools\Contosa.DuckStore.Central.WebApi.Tool\bin\Debug\net9.0\Contosa.DuckStore.Central.WebApi.Tool.dll" />
-    <Path Id="62cd2357-7871-4b51-9c21-55000682d247.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Tools/Contosa.DuckStore.Central.WebApi.Tool/bin/Debug/net9.0/Contosa.DuckStore.Central.WebApi.Tool.dll" />
     <Path Id="6309a38a-c2b8-4ffa-87b4-efb97a6f6e53.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore\bin\Debug\net9.0\Contosa.DuckStore.dll" />
     <Path Id="6309a38a-c2b8-4ffa-87b4-efb97a6f6e53.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore/bin/Debug/net9.0/Contosa.DuckStore.dll" />
     <Path Id="6b302a66-f1dd-4adb-8e73-313d5fd75a59.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.Management.DataAccess\bin\Debug\net9.0\Contosa.DuckStore.Management.DataAccess.dll" />
