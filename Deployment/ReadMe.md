@@ -7,3 +7,6 @@
 - Production
 
 ## Each Folder contains
+- Contosa.DuckStore.Central.WebApi
+- Contosa.DuckStore.Management.WebApp
+- Contosa.DuckStore.PublicApi.WebApi
