@@ -8,6 +8,7 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Contosa.DuckStore.PublicApi.Business.Entities\Contosa.DuckStore.PublicApi.Business.Entities.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore.PublicApi.Business\Contosa.DuckStore.PublicApi.Business.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore\Contosa.DuckStore.csproj" />
     <ProjectReference Include="..\Contosa\Contosa.csproj" />
