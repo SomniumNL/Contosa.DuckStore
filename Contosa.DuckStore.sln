@@ -187,6 +187,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Development", "1. Develo
 		Deployment\Development\Contosa.DuckStore.Management.WebApp.yml = Deployment\Development\Contosa.DuckStore.Management.WebApp.yml
 		Deployment\Development\Contosa.DuckStore.OnlineStore.WebApp.yml = Deployment\Development\Contosa.DuckStore.OnlineStore.WebApp.yml
 		Deployment\Development\Contosa.DuckStore.PublicApi.WebApi.yml = Deployment\Development\Contosa.DuckStore.PublicApi.WebApi.yml
+		Deployment\Development\ReadMe.md = Deployment\Development\ReadMe.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Testing", "2. Testing", "{199C1537-953E-4CE8-9EDF-66B70E52F81E}"
@@ -196,6 +197,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Testing", "2. Testing", 
 		Deployment\Testing\Contosa.DuckStore.Management.WebApp.yml = Deployment\Testing\Contosa.DuckStore.Management.WebApp.yml
 		Deployment\Testing\Contosa.DuckStore.OnlineStore.WebApp.yml = Deployment\Testing\Contosa.DuckStore.OnlineStore.WebApp.yml
 		Deployment\Testing\Contosa.DuckStore.PublicApi.WebApi.yml = Deployment\Testing\Contosa.DuckStore.PublicApi.WebApi.yml
+		Deployment\Testing\ReadMe.md = Deployment\Testing\ReadMe.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Acceptance", "3. Acceptance", "{EBEE9938-8C5E-4977-8ECE-C812CF7FEBCC}"
@@ -205,6 +207,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Acceptance", "3. Accepta
 		Deployment\Acceptance\Contosa.DuckStore.Management.WebApp.yml = Deployment\Acceptance\Contosa.DuckStore.Management.WebApp.yml
 		Deployment\Acceptance\Contosa.DuckStore.OnlineStore.WebApp.yml = Deployment\Acceptance\Contosa.DuckStore.OnlineStore.WebApp.yml
 		Deployment\Acceptance\Contosa.DuckStore.PublicApi.WebApi.yml = Deployment\Acceptance\Contosa.DuckStore.PublicApi.WebApi.yml
+		Deployment\Acceptance\ReadMe.md = Deployment\Acceptance\ReadMe.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Production", "4. Production", "{2FF8D12E-BFEC-47E0-9986-584970C8A9C2}"
@@ -214,6 +217,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Production", "4. Product
 		Deployment\Production\Contosa.DuckStore.Management.WebApp.yml = Deployment\Production\Contosa.DuckStore.Management.WebApp.yml
 		Deployment\Production\Contosa.DuckStore.OnlineStore.WebApp.yml = Deployment\Production\Contosa.DuckStore.OnlineStore.WebApp.yml
 		Deployment\Production\Contosa.DuckStore.PublicApi.WebApi.yml = Deployment\Production\Contosa.DuckStore.PublicApi.WebApi.yml
+		Deployment\Production\ReadMe.md = Deployment\Production\ReadMe.md
 	EndProjectSection
 EndProject
 Global
