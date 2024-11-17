@@ -21,3 +21,7 @@
   - `Orders` 
   - `Customers`
   - `OrderItems`
+
+- `DeleteDuckData.sql` - This script deletes all the data from the `Ducks` table.
+
+- `DeleteAllData.sql` - This script deletes all the data from all the tables in the database.
