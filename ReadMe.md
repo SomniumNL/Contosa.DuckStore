@@ -6,6 +6,9 @@ Duck Store is your go-to (fictional) online shop for all things duck! From charm
 ## Architecture
 <img src="https://somnium.nl/wp-content/uploads/2024/11/contosa-duck-store.png">
 
+## Database
+<img src="https://somnium.nl/wp-content/uploads/2024/11/duck-store-database-diagram.png">
+
 
 ## Production Environment
 - Duck Store Public Website (Production) ~ https://contosa.net/Duck
