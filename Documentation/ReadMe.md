@@ -10,5 +10,5 @@ Contosa.Duckstore.OnlineStore<br/>
 Contosa.Duckstore.PublicApi<br/>
 <br/>
 Source ~ Source code folder<br/>
-Full ~ Everything in one place<br/>
+Full ~ Everything in the solution<br/>
 
