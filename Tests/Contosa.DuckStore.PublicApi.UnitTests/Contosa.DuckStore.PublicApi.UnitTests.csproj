@@ -23,6 +23,17 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Source\Contosa.DuckStore.Data.csproj\Contosa.DuckStore.Data.csproj" />
+    <ProjectReference Include="..\..\Source\Contosa.DuckStore.PublicApi.Business.Entities\Contosa.DuckStore.PublicApi.Business.Entities.csproj" />
+    <ProjectReference Include="..\..\Source\Contosa.DuckStore.PublicApi.Business\Contosa.DuckStore.PublicApi.Business.csproj" />
+    <ProjectReference Include="..\..\Source\Contosa.DuckStore.PublicApi.DataAccess.Entities\Contosa.DuckStore.PublicApi.DataAccess.Entities.csproj" />
+    <ProjectReference Include="..\..\Source\Contosa.DuckStore.PublicApi.DataAccess\Contosa.DuckStore.PublicApi.DataAccess.csproj" />
+    <ProjectReference Include="..\..\Source\Contosa.DuckStore.PublicApi\Contosa.DuckStore.PublicApi.csproj" />
+    <ProjectReference Include="..\..\Source\Contosa.DuckStore\Contosa.DuckStore.csproj" />
+    <ProjectReference Include="..\..\Source\Contosa\Contosa.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
 
