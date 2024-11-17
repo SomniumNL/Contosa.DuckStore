@@ -1,3 +1,5 @@
+SET IDENTITY_INSERT Duck ON;  
+
 INSERT INTO Duck (DuckID, Name, Price, Description, Category, ImageURL)
 VALUES
 (1, 'Happy Flapper', 28.25, 'Ideal as a gift or for personal use.', 'Decoration', 'https://contosa.net/DuckImages/duck1.jpg'),
@@ -100,3 +102,5 @@ VALUES
 (98, 'Angry Paddler', 42.39, 'Perfect for collectors and duck enthusiasts.', 'Collectible', 'https://contosa.net/DuckImages/duck98.jpg'),
 (99, 'Cheerful Dabbler', 23.98, 'Made from high-quality materials for long-lasting fun.', 'Collectible', 'https://contosa.net/DuckImages/duck99.jpg'),
 (100, 'Happy Duck', 39.9, 'An elegant duck with a unique design.', 'Decoration', 'https://contosa.net/DuckImages/duck100.jpg');
+
+SET IDENTITY_INSERT Duck OFF;  
