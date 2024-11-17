@@ -3,6 +3,10 @@
 ## Introduction
 Duck Store is your go-to (fictional) online shop for all things duck! From charming quackers to feathery friends, our pretend store offers a wide range of ducks to brighten your day. Browse our collection and imagine the joy of owning your very own duck, all without the mess! Duck Store – where your duck dreams come true (in your imagination).
 
+## Architecture
+<img src="https://somnium.nl/wp-content/uploads/2024/11/contosa-duck-store.png">
+
+
 ## Production Environment
 - Duck Store Public Website (Production) ~ https://contosa.net/Duck
 - Duck Store Management Website (Production) ~ https://contosa.net/DuckManagement
