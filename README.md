@@ -4,7 +4,7 @@
 Duck Store is your go-to (fictional) online shop for all things duck! From charming quackers to feathery friends, our pretend store offers a wide range of ducks to brighten your day. Browse our collection and imagine the joy of owning your very own duck, all without the mess! Duck Store – where your duck dreams come true (in your imagination).
 
 ## General
-- Website - https://contosa.net/Duck
+- Duck Store Website (Production) - https://contosa.net/Duck
 - DevOps ~ https://contosa.net/DevOps
 - Azure Key Vault ~ https://contosa.net/Azure/KeyVault
 - SonarCloud ~ https://contosa.net/SonarCloud

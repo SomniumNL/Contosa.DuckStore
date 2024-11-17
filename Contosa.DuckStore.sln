@@ -18,12 +18,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Tests", "3. Tests", "{7C
 		Tests\ReadMe.md = Tests\ReadMe.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Test Area", "4. Test Area", "{001C0DF9-D213-45B7-A234-BBCA4473C532}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Test Area", "5. Test Area", "{001C0DF9-D213-45B7-A234-BBCA4473C532}"
 	ProjectSection(SolutionItems) = preProject
 		Test Area\ReadMe.md = Test Area\ReadMe.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Data", "5. Data", "{6EADE939-5BF7-4411-8D91-8CA47E538477}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Data", "6. Data", "{6EADE939-5BF7-4411-8D91-8CA47E538477}"
 	ProjectSection(SolutionItems) = preProject
 		Data\ReadMe.md = Data\ReadMe.md
 	EndProjectSection
@@ -134,9 +134,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. API Tests", "2. API Test
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.PublicApi.WebApi.APITests", "Tests\Contosa.DuckStore.PublicApi.WebApi.APITests\Contosa.DuckStore.PublicApi.WebApi.APITests.csproj", "{A52F0D37-91CC-4C04-8AB4-9DB1085D67FF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Deployment", "6. Deployment", "{358B4B5A-0043-4A63-A253-99058532C2B3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Deployment", "4. Deployment", "{358B4B5A-0043-4A63-A253-99058532C2B3}"
 	ProjectSection(SolutionItems) = preProject
-		Deployment\ReadMex.md = Deployment\ReadMex.md
+		Deployment\ReadMe.md = Deployment\ReadMe.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7. Tools", "7. Tools", "{A9085A48-D33F-4654-AD74-9185230A1805}"
