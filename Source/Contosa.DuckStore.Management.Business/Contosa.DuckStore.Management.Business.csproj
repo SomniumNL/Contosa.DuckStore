@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Contosa.DuckStore.Data.csproj\Contosa.DuckStore.Data.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore.Management.Business.Entities\Contosa.DuckStore.Management.Business.Entities.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore.Management.DataAccess.Entities\Contosa.DuckStore.Management.DataAccess.Entities.csproj" />
     <ProjectReference Include="..\Contosa.DuckStore.Management.DataAccess\Contosa.DuckStore.Management.DataAccess.csproj" />
