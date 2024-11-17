@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" Category="CodeMap_SolutionFolder" Bounds="0,0,610.55,420" Group="Expanded" Label="2. Source" />
+    <Node Id="@10" Category="CodeSchema_Assembly" Bounds="40,300,316.39,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.PublicApi.Business.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(a6154527-dce0-4ad7-bf4f-78651bf7cb4f.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.PublicApi.Business.Entities.dll" />
+    <Node Id="@12" Category="CodeSchema_Assembly" Bounds="40,190,290.673333333333,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.PublicApi.DataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(d1b71194-7a3d-44a1-b013-a1f239dc9949.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.PublicApi.DataAccess.dll" />
+    <Node Id="@14" Category="CodeSchema_Assembly" Bounds="40,135,275.613333333333,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.PublicApi.Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(275f423c-5776-4493-800f-2143c40e7fe7.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.PublicApi.Business.dll" />
+    <Node Id="@2" Category="CodeSchema_Assembly" Bounds="298.09,80,272.46,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.PublicApi.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(b079e4b5-6ad6-4eea-924c-f2fd5aad59e3.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.PublicApi.WebApi.dll" />
+    <Node Id="@4" Category="CodeSchema_Assembly" Bounds="40,80,228.09,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.PublicApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(cc767809-352b-4ed5-a029-bff04fcdce7e.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.PublicApi.dll" />
+    <Node Id="@6" Category="CodeSchema_Assembly" Bounds="40,245,313.236666666667,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.PublicApi.WebApi.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(37710d4c-dc9b-4e1c-8ae2-904df797a930.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.PublicApi.WebApi.Entities.dll" />
+    <Node Id="@8" Category="CodeSchema_Assembly" Bounds="40,355,331.45,25" CodeSchemaProperty_StrongName="Contosa.DuckStore.PublicApi.DataAccess.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(e6ac1221-d608-4030-a530-d6f32a3a691e.OutputPath)" Group="Collapsed" Label="Contosa.DuckStore.PublicApi.DataAccess.Entities.dll" />
+    <Node Id="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Category="CodeMap_SolutionFolder" Bounds="20,40,570.55,360" Group="Expanded" Label="Contosa.DuckStore.PublicApi (Public Web API)" />
+  </Nodes>
+  <Links>
+    <Link Source="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" Target="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Category="Contains" FetchingParent="2. Source{1BC6E358-063D-4E53-A821-27E1F8E0886D}" />
+    <Link Source="@10" Target="@4" Category="CodeMap_ProjectReference" Bounds="29.8657836914063,107.26969909668,103.318939208984,192.730484008789" />
+    <Link Source="@12" Target="@4" Category="CodeMap_ProjectReference" Bounds="29.8657836914063,107.271064758301,95.4266052246094,82.7289199829102" />
+    <Link Source="@12" Target="@8" Category="CodeMap_ProjectReference" Bounds="29.8657836914063,214.999984741211,99.0894470214844,138.37126159668" />
+    <Link Source="@14" Target="@10" Category="CodeMap_ProjectReference" Bounds="29.8657836914063,159.999893188477,94.480827331543,138.300918579102" />
+    <Link Source="@14" Target="@12" Category="CodeMap_ProjectReference" Bounds="179.518027191466,159.999885714265,2.8864875314074,21.0832805944436" />
+    <Link Source="@14" Target="@4" Category="CodeMap_ProjectReference" Bounds="163.01476468872,113.261711288623,9.39153300892107,21.7381744256418" />
+    <Link Source="@14" Target="@8" Category="CodeMap_ProjectReference" Bounds="29.8657836914063,159.999893188477,99.0894470214844,193.371353149414" />
+    <Link Source="@2" Target="@10" Category="CodeMap_ProjectReference" Bounds="270.819488525391,104.999786376953,158.773956298828,193.269775390625" />
+    <Link Source="@2" Target="@12" Category="CodeMap_ExternalReference" Bounds="248.334655761719,104.999786376953,168.503967285156,82.9786376953125" />
+    <Link Source="@2" Target="@14" Category="CodeMap_ProjectReference" Bounds="244.905035536449,104.999785714265,131.116585612119,28.1132572198655" />
+    <Link Source="@2" Target="@4" Category="CodeMap_ProjectReference" Bounds="277.09,92.4997857142652,21,0" />
+    <Link Source="@2" Target="@6" Category="CodeMap_ProjectReference" Bounds="261.087005615234,104.999786376953,164.420013427734,138.02912902832" />
+    <Link Source="@2" Target="@8" Category="CodeMap_ExternalReference" Bounds="276.650177001953,104.999786376953,154.177124023438,248.224578857422" />
+    <Link Source="@6" Target="@4" Category="CodeMap_ProjectReference" Bounds="29.8657836914063,107.272720336914,102.351196289063,137.72737121582" />
+    <Link Source="@8" Target="@4" Category="CodeMap_ProjectReference" Bounds="29.8657836914063,107.26969909668,107.940780639648,247.730575561523" />
+    <Link Source="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Target="@10" Category="Contains" FetchingParent="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" />
+    <Link Source="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Target="@12" Category="Contains" FetchingParent="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" />
+    <Link Source="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Target="@14" Category="Contains" FetchingParent="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" />
+    <Link Source="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Target="@2" Category="Contains" FetchingParent="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" />
+    <Link Source="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Target="@4" Category="Contains" FetchingParent="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" />
+    <Link Source="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Target="@6" Category="Contains" FetchingParent="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" />
+    <Link Source="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" Target="@8" Category="Contains" FetchingParent="Contosa.DuckStore.PublicApi (Public Web API){D97746F8-3830-4009-8B63-7BFA423E94E1}" />
+  </Links>
+  <Categories>
+    <Category Id="CodeMap_ExternalReference" Label="External Reference" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Referenced By" OutgoingActionLabel="References" />
+    <Category Id="CodeMap_ProjectReference" Label="Project Reference" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Referenced By" OutgoingActionLabel="References" />
+    <Category Id="CodeMap_SolutionFolder" Label="Solution Folder" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Solution Folder" />
+    <Category Id="CodeSchema_Assembly" Label="Assembly" BasedOn="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Assembly" NavigationActionLabel="Assemblies" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+    <Category Id="File" Label="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="Files" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_StrongName" Label="StrongName" Description="StrongName" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedChildNodesState" Label="Delayed Child Nodes State" Description="Unspecified if the delayed child nodes state is not specified. NotFetched if the group contains child nodes that are not fetched into the graph yet. Fetched if the group has all its delayed child nodes already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="DelayedCrossGroupLinksState" Label="Delayed Cross-Group Links State" Description="Unspecified if the delayed cross-group links state is not specified. NotFetched if delayed cross-group links on this node are not fetched into the graph yet. Fetched if all delayed cross-group links have already fetched." DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FetchingParent" DataType="Microsoft.VisualStudio.GraphModel.GraphNodeId" />
+    <Property Id="FilePath" Label="File Path" Description="File Path" DataType="System.String" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+    <Property Id="ZoomLevel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(b079e4b5-6ad6-4eea-924c-f2fd5aad59e3.OutputPathUri)" />
+    <Alias n="2" Id="(@1)" />
+    <Alias n="3" Uri="Assembly=$(cc767809-352b-4ed5-a029-bff04fcdce7e.OutputPathUri)" />
+    <Alias n="4" Id="(@3)" />
+    <Alias n="5" Uri="Assembly=$(37710d4c-dc9b-4e1c-8ae2-904df797a930.OutputPathUri)" />
+    <Alias n="6" Id="(@5)" />
+    <Alias n="7" Uri="Assembly=$(e6ac1221-d608-4030-a530-d6f32a3a691e.OutputPathUri)" />
+    <Alias n="8" Id="(@7)" />
+    <Alias n="9" Uri="Assembly=$(a6154527-dce0-4ad7-bf4f-78651bf7cb4f.OutputPathUri)" />
+    <Alias n="10" Id="(@9)" />
+    <Alias n="11" Uri="Assembly=$(d1b71194-7a3d-44a1-b013-a1f239dc9949.OutputPathUri)" />
+    <Alias n="12" Id="(@11)" />
+    <Alias n="13" Uri="Assembly=$(275f423c-5776-4493-800f-2143c40e7fe7.OutputPathUri)" />
+    <Alias n="14" Id="(@13)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Results" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Test Project" ValueLabel="Test Project">
+      <Condition Expression="HasCategory('CodeMap_TestProject')" />
+      <Setter Property="Icon" Value="CodeMap_TestProject" />
+      <Setter Property="Background" Value="#FF307A69" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Web Project" ValueLabel="Web Project">
+      <Condition Expression="HasCategory('CodeMap_WebProject')" />
+      <Setter Property="Icon" Value="CodeMap_WebProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Windows Store Project" ValueLabel="Windows Store Project">
+      <Condition Expression="HasCategory('CodeMap_WindowsStoreProject')" />
+      <Setter Property="Icon" Value="CodeMap_WindowsStoreProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Phone Project" ValueLabel="Phone Project">
+      <Condition Expression="HasCategory('CodeMap_PhoneProject')" />
+      <Setter Property="Icon" Value="CodeMap_PhoneProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Portable Library" ValueLabel="Portable Library">
+      <Condition Expression="HasCategory('CodeMap_PortableLibraryProject')" />
+      <Setter Property="Icon" Value="CodeMap_PortableLibraryProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="WPF Project" ValueLabel="WPF Project">
+      <Condition Expression="HasCategory('CodeMap_WpfProject')" />
+      <Setter Property="Icon" Value="CodeMap_WpfProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="VSIX Project" ValueLabel="VSIX Project">
+      <Condition Expression="HasCategory('CodeMap_VsixProject')" />
+      <Setter Property="Icon" Value="CodeMap_VsixProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Modeling Project" ValueLabel="Modeling Project">
+      <Condition Expression="HasCategory('CodeMap_ModelingProject')" />
+      <Setter Property="Icon" Value="CodeMap_ModelingProject" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interface" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeration" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegate" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Class" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF0E70C0" />
+      <Setter Property="Stroke" Value="#FF0E70C0" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Property" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Event" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Field" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="Has category">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True">
+      <Condition Expression="HasCategory('InheritsFrom')" />
+      <Setter Property="Stroke" Value="#FF00A600" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True">
+      <Condition Expression="HasCategory('Implements')" />
+      <Setter Property="Stroke" Value="#8000A600" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Calls" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Calls')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 0" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Function Pointer" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FunctionPointer')" />
+      <Setter Property="Stroke" Value="#FFFF00FF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Write" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_FieldWrite')" />
+      <Setter Property="Stroke" Value="#FF00AEEF" />
+      <Setter Property="DrawArrow" Value="true" />
+      <Setter Property="IsHidden" Value="false" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Return" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_ReturnTypeLink')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="References" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('References')" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Uses Attribute" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeSchema_AttributeUse')" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Solution Folder" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CodeMap_SolutionFolder')" />
+      <Setter Property="Background" Value="#FFDEBA83" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Project Reference" ValueLabel="Project Reference">
+      <Condition Expression="HasCategory('CodeMap_ProjectReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="External Reference" ValueLabel="External Reference">
+      <Condition Expression="HasCategory('CodeMap_ExternalReference')" />
+      <Setter Property="Stroke" Value="#9A9A9A" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+      <Setter Property="DrawArrow" Value="true" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="275f423c-5776-4493-800f-2143c40e7fe7.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.PublicApi.Business\bin\Debug\net9.0\Contosa.DuckStore.PublicApi.Business.dll" />
+    <Path Id="275f423c-5776-4493-800f-2143c40e7fe7.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore.PublicApi.Business/bin/Debug/net9.0/Contosa.DuckStore.PublicApi.Business.dll" />
+    <Path Id="37710d4c-dc9b-4e1c-8ae2-904df797a930.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.PublicApi.WebApi.Entities\bin\Debug\net9.0\Contosa.DuckStore.PublicApi.WebApi.Entities.dll" />
+    <Path Id="37710d4c-dc9b-4e1c-8ae2-904df797a930.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore.PublicApi.WebApi.Entities/bin/Debug/net9.0/Contosa.DuckStore.PublicApi.WebApi.Entities.dll" />
+    <Path Id="a6154527-dce0-4ad7-bf4f-78651bf7cb4f.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.PublicApi.Business.Entities\bin\Debug\net9.0\Contosa.DuckStore.PublicApi.Business.Entities.dll" />
+    <Path Id="a6154527-dce0-4ad7-bf4f-78651bf7cb4f.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore.PublicApi.Business.Entities/bin/Debug/net9.0/Contosa.DuckStore.PublicApi.Business.Entities.dll" />
+    <Path Id="b079e4b5-6ad6-4eea-924c-f2fd5aad59e3.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.PublicApi.WebApi\bin\Debug\net9.0\Contosa.DuckStore.PublicApi.WebApi.dll" />
+    <Path Id="b079e4b5-6ad6-4eea-924c-f2fd5aad59e3.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore.PublicApi.WebApi/bin/Debug/net9.0/Contosa.DuckStore.PublicApi.WebApi.dll" />
+    <Path Id="cc767809-352b-4ed5-a029-bff04fcdce7e.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.PublicApi\bin\Debug\net9.0\Contosa.DuckStore.PublicApi.dll" />
+    <Path Id="cc767809-352b-4ed5-a029-bff04fcdce7e.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore.PublicApi/bin/Debug/net9.0/Contosa.DuckStore.PublicApi.dll" />
+    <Path Id="d1b71194-7a3d-44a1-b013-a1f239dc9949.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.PublicApi.DataAccess\bin\Debug\net9.0\Contosa.DuckStore.PublicApi.DataAccess.dll" />
+    <Path Id="d1b71194-7a3d-44a1-b013-a1f239dc9949.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore.PublicApi.DataAccess/bin/Debug/net9.0/Contosa.DuckStore.PublicApi.DataAccess.dll" />
+    <Path Id="e6ac1221-d608-4030-a530-d6f32a3a691e.OutputPath" Value="C:\repos\Contosa.DuckStore\Source\Contosa.DuckStore.PublicApi.DataAccess.Entities\bin\Debug\net9.0\Contosa.DuckStore.PublicApi.DataAccess.Entities.dll" />
+    <Path Id="e6ac1221-d608-4030-a530-d6f32a3a691e.OutputPathUri" Value="file:///C:/repos/Contosa.DuckStore/Source/Contosa.DuckStore.PublicApi.DataAccess.Entities/bin/Debug/net9.0/Contosa.DuckStore.PublicApi.DataAccess.Entities.dll" />
+  </Paths>
+</DirectedGraph>
