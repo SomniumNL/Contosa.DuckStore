@@ -1,11 +1,13 @@
 # Deployment Read Me
 
+All passwords are saved at location: https://contosa.net/Passwords
+
 ## Development
 <b>Location:</b> <br/>
 Online Store - https://contosa.net/Duck<br/>
-Central WebApi - https://contosa.net/Central<br/>
-Management WebApi - https://contosa.net/Management<br/>
-Public Api - https://contosa.net/PublicApi<br/>
+Central WebApi - https://contosa.net/DevelopmentCentral<br/>
+Management WebApi - https://contosa.net/DevelopmentManagement<br/>
+Public Api - https://contosa.net/DevelopmentPublicApi<br/>
 <br/>
 <b>Server:<b/></br>
 Online Store - ServerXYZ<br/>
@@ -21,9 +23,9 @@ Restart the application by running the `restart.sh` script in the root of the re
 ## Testing
 <b>Location:</b> <br/>
 Online Store - https://contosa.net/Duck<br/>
-Central WebApi - https://contosa.net/Central<br/>
-Management WebApi - https://contosa.net/Management<br/>
-Public Api - https://contosa.net/PublicApi<br/>
+Central WebApi - https://contosa.net/TestingCentral<br/>
+Management WebApi - https://contosa.net/TestingManagement<br/>
+Public Api - https://contosa.net/TestingPublicApi<br/>
 <br/>
 <b>Server:<b/></br>
 Online Store - ServerXYZ<br/>
@@ -39,9 +41,9 @@ Restart the application by running the `restart.sh` script in the root of the re
 ## Acceptance
 <b>Location:</b> <br/>
 Online Store - https://contosa.net/Duck<br/>
-Central WebApi - https://contosa.net/Central<br/>
-Management WebApi - https://contosa.net/Management<br/>
-Public Api - https://contosa.net/PublicApi<br/>
+Central WebApi - https://contosa.net/AcceptanceCentral<br/>
+Management WebApi - https://contosa.net/AcceptanceManagement<br/>
+Public Api - https://contosa.net/AcceptancePublicApi<br/>
 <br/>
 <b>Server:<b/></br>
 Online Store - ServerXYZ<br/>
