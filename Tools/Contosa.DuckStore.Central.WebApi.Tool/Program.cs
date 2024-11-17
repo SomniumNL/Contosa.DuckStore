@@ -1,4 +1,4 @@
-﻿namespace Contosa.DuckStore.Central.WebApi.Tool;
+﻿namespace Contosa.DuckStore.Central.WebApi.ToolConsole;
 
 internal class Program
 {
