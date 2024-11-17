@@ -172,8 +172,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL Scripts", "SQL Scripts"
 	ProjectSection(SolutionItems) = preProject
 		Data\Sql Scripts\CreateDatabase.sql = Data\Sql Scripts\CreateDatabase.sql
 		Data\SQL Scripts\DeleteAllData.sql = Data\SQL Scripts\DeleteAllData.sql
-		Data\SQL Scripts\InsertData.sql = Data\SQL Scripts\InsertData.sql
 		Data\SQL Scripts\DeleteDuckData.sql = Data\SQL Scripts\DeleteDuckData.sql
+		Data\SQL Scripts\InsertDuckData.sql = Data\SQL Scripts\InsertDuckData.sql
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSV", "CSV", "{3C14A53B-80D3-4D12-8777-91D88AF1FF62}"
