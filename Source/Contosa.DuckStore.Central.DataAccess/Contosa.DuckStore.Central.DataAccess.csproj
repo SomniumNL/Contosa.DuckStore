@@ -9,5 +9,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Contosa.DuckStore.Central.DataAccess.Entities\Contosa.DuckStore.Central.DataAccess.Entities.csproj" />
+    <ProjectReference Include="..\Contosa.DuckStore.Central\Contosa.DuckStore.Central.csproj" />
+    <ProjectReference Include="..\Contosa.DuckStore.Data.csproj\Contosa.DuckStore.Data.csproj" />
+    <ProjectReference Include="..\Contosa.DuckStore\Contosa.DuckStore.csproj" />
+    <ProjectReference Include="..\Contosa\Contosa.csproj" />
   </ItemGroup>
 </Project>
