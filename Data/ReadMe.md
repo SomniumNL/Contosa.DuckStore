@@ -16,7 +16,7 @@
   - `Customers` - Contains information about the customers who have placed orders.
   - `OrderItems` - Contains information about the items in each order.
 
-- 'InsertData.sql' - This script inserts data into the tables created by the `CreateDatabase.sql` script. It inserts the following data:
+- `InsertData.sql` - This script inserts data into the tables created by the `CreateDatabase.sql` script. It inserts the following data:
   - `Ducks`
   - `Orders` 
   - `Customers`
