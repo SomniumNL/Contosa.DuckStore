@@ -19,6 +19,8 @@ Duck Store is your go-to (fictional) online shop for all things duck! From charm
 - Customer Support ~ https://contosa.net/Doc/CustomerSupport
 
 ## Contacts
+- Support Tickets for IT Operations ~ [ITSupport@Contosa.net](mailto:ITSupport@Contosa.net)
+<br/><br/>
 - Kenny McCormick (IT Operations) ~ [Kenny.McCormick@Contosa.net](mailto:Kenny.McCormick@Contosa.net) 
 - Stan March (IT Operations) ~ [Stan.March@Contosa.net](mailto:Stan.March@Contosa.net) 
 - Heidi Turner (Security Manager) ~ [Heidi.Turner@Contosa.net](mailto:Heidi.Turner@Contosa.net) 
