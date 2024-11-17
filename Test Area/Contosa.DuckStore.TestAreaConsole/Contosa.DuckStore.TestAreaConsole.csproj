@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Source\Contosa.DuckStore.Data.csproj\Contosa.DuckStore.Data.csproj" />
+    <ProjectReference Include="..\..\Source\Contosa.DuckStore\Contosa.DuckStore.csproj" />
+    <ProjectReference Include="..\..\Source\Contosa\Contosa.csproj" />
+  </ItemGroup>
+
 </Project>
