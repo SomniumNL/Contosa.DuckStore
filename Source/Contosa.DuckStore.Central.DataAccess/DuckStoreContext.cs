@@ -1,11 +1,14 @@
-﻿using System.Collections.Generic;
-using System.Reflection.Emit;
-using Contosa.DuckStore.Central.Business.Entities;
+﻿using Contosa.DuckStore.Central.Business.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Contosa.DuckStore.Central.DataAccess;
 
-public class DuckStoreContext(DbContextOptions<DuckStoreContext> options, DbSet<Customer> customers, DbSet<Duck> ducks, DbSet<OrderItem> orderItems, DbSet<Order> orders) : DbContext(options)
+public class DuckStoreContext(
+    DbContextOptions<DuckStoreContext> options,
+    DbSet<Customer> customers,
+    DbSet<Duck> ducks,
+    DbSet<OrderItem> orderItems,
+    DbSet<Order> orders) : DbContext(options)
 {
     public DbSet<Duck> Ducks { get; set; } = ducks;
     public DbSet<Customer> Customers { get; set; } = customers;
