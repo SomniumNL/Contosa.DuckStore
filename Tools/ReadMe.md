@@ -1,6 +1,6 @@
 # Tools Read Me
 
-### Contosa.DuckStore.Central.WebApi.Tool
+### Contosa.DuckStore.Central.WebApi.ToolConsole
 This tool creates data for the Duck Store Central Web API. It creates a list of ducks and stores them in the database. The tool is a console application that can be run from the command line. 
 
 The tool has the following parameters:
