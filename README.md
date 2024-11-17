@@ -28,7 +28,7 @@ Duck Store is your go-to (fictional) online shop for all things duck! From charm
 - 1.0.0 ~ https://contosa.net/DevOps/Release_1.0.0
   - FEATURE: Duck Store website - Added selling integration
 
-# Somnium
+## Somnium.nl
 <a href="https://Somnium.nl">
 <img src="https://somniumnl.files.wordpress.com/2023/10/purple-outerglow.png" style="width: 100%; max-width: 326px; max-height: 326px; height: auto;">
 </a>
