@@ -1,4 +1,4 @@
-INSERT INTO Ducks (DuckID, Name, Price, Description, Category, ImageURL)
+INSERT INTO Duck (DuckID, Name, Price, Description, Category, ImageURL)
 VALUES
 (1, 'Happy Flapper', 28.25, 'Ideal as a gift or for personal use.', 'Decoration', 'https://contosa.net/DuckImages/duck1.jpg'),
 (2, 'Silly Duck', 24.97, 'An elegant duck with a unique design.', 'Toy', 'https://contosa.net/DuckImages/duck2.jpg'),

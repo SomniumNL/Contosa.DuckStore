@@ -1,1 +1,1 @@
-DELETE FROM Ducks;
+DELETE FROM Duck;

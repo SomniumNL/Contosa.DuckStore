@@ -2,18 +2,18 @@
 BEGIN TRANSACTION;
 
 -- Step 1: Delete from dependent tables (child tables)
-DELETE FROM OrderItems;
+DELETE FROM OrderItem;
 
 -- Step 2: Delete from parent tables
-DELETE FROM Orders;
-DELETE FROM Customers;
-DELETE FROM Ducks;
+DELETE FROM [Order];
+DELETE FROM Customer;
+DELETE FROM Duck;
 
 -- Step 3: Commit the transaction
 COMMIT TRANSACTION;
 
 -- Optional: Reset identity columns
-DBCC CHECKIDENT ('OrderItems', RESEED, 0);
-DBCC CHECKIDENT ('Orders', RESEED, 0);
-DBCC CHECKIDENT ('Customers', RESEED, 0);
-DBCC CHECKIDENT ('Ducks', RESEED, 0);
+DBCC CHECKIDENT ('OrderItem', RESEED, 0);
+DBCC CHECKIDENT ('Order', RESEED, 0);
+DBCC CHECKIDENT ('Customer', RESEED, 0);
+DBCC CHECKIDENT ('Duck', RESEED, 0);

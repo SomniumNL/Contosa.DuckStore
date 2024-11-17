@@ -7,7 +7,7 @@ USE DuckStore;
 GO
 
 -- Create the Ducks table
-CREATE TABLE Ducks (
+CREATE TABLE Duck (
     DuckID INT IDENTITY(1,1) PRIMARY KEY,
     Name VARCHAR(255) NOT NULL,
     Price DECIMAL(10, 2) NOT NULL,
@@ -18,7 +18,7 @@ CREATE TABLE Ducks (
 GO
 
 -- Create the Customers table
-CREATE TABLE Customers (
+CREATE TABLE Customer (
     CustomerID INT IDENTITY(1,1) PRIMARY KEY,
     FirstName VARCHAR(100) NOT NULL,
     LastName VARCHAR(100) NOT NULL,
@@ -32,24 +32,24 @@ CREATE TABLE Customers (
 GO
 
 -- Create the Orders table
-CREATE TABLE Orders (
+CREATE TABLE [Order] (
     OrderID INT IDENTITY(1,1) PRIMARY KEY,
     CustomerID INT NOT NULL,
     OrderDate DATETIME DEFAULT GETDATE(), -- Use GETDATE() for current timestamp
     TotalAmount DECIMAL(10, 2) NOT NULL,
     Status VARCHAR(50) DEFAULT 'Pending',
-    FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID) ON DELETE CASCADE
+    FOREIGN KEY (CustomerID) REFERENCES Customer(CustomerID) ON DELETE CASCADE
 );
 GO
 
 -- Create the OrderItems table
-CREATE TABLE OrderItems (
+CREATE TABLE OrderItem (
     OrderItemID INT IDENTITY(1,1) PRIMARY KEY,
     OrderID INT NOT NULL,
     DuckID INT NOT NULL,
     Quantity INT NOT NULL,
     UnitPrice DECIMAL(10, 2) NOT NULL,
-    FOREIGN KEY (OrderID) REFERENCES Orders(OrderID) ON DELETE CASCADE,
-    FOREIGN KEY (DuckID) REFERENCES Ducks(DuckID) ON DELETE CASCADE
+    FOREIGN KEY (OrderID) REFERENCES [Order](OrderID) ON DELETE CASCADE,
+    FOREIGN KEY (DuckID) REFERENCES Duck(DuckID) ON DELETE CASCADE
 );
 GO
