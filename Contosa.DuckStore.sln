@@ -9,9 +9,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Source", "2. Source", "{
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Documentation", "1. Documentation", "{BC9D6E40-3985-4AE4-A07D-45C5CA877A6C}"
-	ProjectSection(SolutionItems) = preProject
-		ReadMe.md = ReadMe.md
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Tests", "3. Tests", "{7C9C8983-3523-498D-88A7-C70BC8583460}"
 	ProjectSection(SolutionItems) = preProject
@@ -34,6 +31,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagrams", "Diagrams", "{DD
 		Documentation\Diagrams\Contosa.DuckStore.Management.dgml = Documentation\Diagrams\Contosa.DuckStore.Management.dgml
 		Documentation\Diagrams\Contosa.DuckStore.OnlineStore.dgml = Documentation\Diagrams\Contosa.DuckStore.OnlineStore.dgml
 		Documentation\Diagrams\Contosa.DuckStore.PublicApi.dgml = Documentation\Diagrams\Contosa.DuckStore.PublicApi.dgml
+		Documentation\ReadMe.md = Documentation\ReadMe.md
 		Documentation\Diagrams\Source.dgml = Documentation\Diagrams\Source.dgml
 	EndProjectSection
 EndProject
