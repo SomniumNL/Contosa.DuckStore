@@ -4,12 +4,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Contosa.DuckStore.Central.Business.Entities\Contosa.DuckStore.Central.Business.Entities.csproj" />
-    <ProjectReference Include="..\Contosa.DuckStore.Central.DataAccess.Entities\Contosa.DuckStore.Central.DataAccess.Entities.csproj" />
-    <ProjectReference Include="..\Contosa.DuckStore.Central.DataAccess\Contosa.DuckStore.Central.DataAccess.csproj" />
-    <ProjectReference Include="..\Contosa.DuckStore.Central\Contosa.DuckStore.Central.csproj" />
-    <ProjectReference Include="..\Contosa.DuckStore\Contosa.DuckStore.csproj" />
-    <ProjectReference Include="..\Contosa\Contosa.csproj" />
-  </ItemGroup>
 </Project>

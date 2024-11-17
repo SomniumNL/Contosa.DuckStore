@@ -7,14 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\Source\Contosa.DuckStore.PublicApi.Business\Contosa.DuckStore.PublicApi.Business.csproj" />
-    <ProjectReference Include="..\..\Source\Contosa.DuckStore.PublicApi.DataAccess\Contosa.DuckStore.PublicApi.DataAccess.csproj" />
-    <ProjectReference Include="..\..\Source\Contosa.DuckStore.PublicApi.WebApi\Contosa.DuckStore.PublicApi.WebApi.csproj" />
-    <ProjectReference Include="..\..\Source\Contosa.DuckStore.PublicApi\Contosa.DuckStore.PublicApi.csproj" />
-    <ProjectReference Include="..\..\Source\Contosa.DuckStore\Contosa.DuckStore.csproj" />
-    <ProjectReference Include="..\..\Source\Contosa\Contosa.csproj" />
-    <ProjectReference Include="..\..\Tests\Contosa.DuckStore.PublicApi.UnitTests\Contosa.DuckStore.PublicApi.UnitTests.csproj" />
-  </ItemGroup>
-
 </Project>
