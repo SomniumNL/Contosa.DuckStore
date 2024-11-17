@@ -19,3 +19,6 @@
 - This folder is for production only. It is not intended to be used for development, testing, or acceptance.
 - Deployment to the development environment is done by running the `deploy.sh` script in the root of the repository.
 - Restart the application by running the `restart.sh` script in the root of the repository. 
+
+Side note:
+- You can replace all this text with links to DevOps documentation. To ensure it centralized externally. 
