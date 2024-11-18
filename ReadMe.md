@@ -25,10 +25,10 @@ Duck Store is your go-to (fictional) online shop for all things duck! From charm
 - Stakeholders ~ https://contosa.net/Doc/Stakeholders
 - Customer Support ~ https://contosa.net/Doc/CustomerSupport
 ## Enivornments
-- [Development](\Deployment\Development\ReadMe.md)<br/>
-- [Testing](\Deployment\Testing\ReadMe.md)<br/>
-- [Acceptance](\Deployment\Acceptance\ReadMe.md)<br/>
-- [Production](\Deployment\Production\ReadMe.md)<br/>
+- [Development Read Me](\Deployment\Development\ReadMe.md)<br/>
+- [Testing Read Me](\Deployment\Testing\ReadMe.md)<br/>
+- [Acceptance Read Me](\Deployment\Acceptance\ReadMe.md)<br/>
+- [Production Read Me](\Deployment\Production\ReadMe.md)<br/>
 
 ## Contacts
 - Support Tickets for IT Operations ~ [ITSupport@Contosa.net](mailto:ITSupport@Contosa.net)
