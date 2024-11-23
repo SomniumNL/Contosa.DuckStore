@@ -237,6 +237,26 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Templates", "1. Template
 		Deployment\Template\ReadMe.md = Deployment\Template\ReadMe.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Hotfix", "6. Hotfix", "{0F8E5F82-F272-4532-B696-C5C72C527C92}"
+	ProjectSection(SolutionItems) = preProject
+		Deployment\Hotfix\All-Deployments.yml = Deployment\Hotfix\All-Deployments.yml
+		Deployment\Hotfix\Contosa.DuckStore.Central.WebApi.yml = Deployment\Hotfix\Contosa.DuckStore.Central.WebApi.yml
+		Deployment\Hotfix\Contosa.DuckStore.Management.WebApp.yml = Deployment\Hotfix\Contosa.DuckStore.Management.WebApp.yml
+		Deployment\Hotfix\Contosa.DuckStore.OnlineStore.WebApp.yml = Deployment\Hotfix\Contosa.DuckStore.OnlineStore.WebApp.yml
+		Deployment\Hotfix\Contosa.DuckStore.PublicApi.WebApi.yml = Deployment\Hotfix\Contosa.DuckStore.PublicApi.WebApi.yml
+		Deployment\Hotfix\ReadMe.md = Deployment\Hotfix\ReadMe.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7. Regional-Production", "7. Regional-Production", "{1C812650-8E44-4964-8CA2-9E385C8D25E7}"
+	ProjectSection(SolutionItems) = preProject
+		Deployment\Regional-Production\All-Deployments.yml = Deployment\Regional-Production\All-Deployments.yml
+		Deployment\Regional-Production\Contosa.DuckStore.Central.WebApi.yml = Deployment\Regional-Production\Contosa.DuckStore.Central.WebApi.yml
+		Deployment\Regional-Production\Contosa.DuckStore.Management.WebApp.yml = Deployment\Regional-Production\Contosa.DuckStore.Management.WebApp.yml
+		Deployment\Regional-Production\Contosa.DuckStore.OnlineStore.WebApp.yml = Deployment\Regional-Production\Contosa.DuckStore.OnlineStore.WebApp.yml
+		Deployment\Regional-Production\Contosa.DuckStore.PublicApi.WebApi.yml = Deployment\Regional-Production\Contosa.DuckStore.PublicApi.WebApi.yml
+		Deployment\Regional-Production\ReadMe.md = Deployment\Regional-Production\ReadMe.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -493,6 +513,8 @@ Global
 		{65F1F808-BAEB-49C5-837F-C0141C820FAE} = {6EADE939-5BF7-4411-8D91-8CA47E538477}
 		{E74A7277-658D-47C9-833F-8C05A318CADE} = {65F1F808-BAEB-49C5-837F-C0141C820FAE}
 		{56D90D92-7DDD-4007-A924-2E05687CA1D1} = {358B4B5A-0043-4A63-A253-99058532C2B3}
+		{0F8E5F82-F272-4532-B696-C5C72C527C92} = {358B4B5A-0043-4A63-A253-99058532C2B3}
+		{1C812650-8E44-4964-8CA2-9E385C8D25E7} = {358B4B5A-0043-4A63-A253-99058532C2B3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E147E01D-F136-4C85-B72F-8558AF9F9EB2}

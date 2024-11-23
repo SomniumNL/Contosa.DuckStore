@@ -1,0 +1,14 @@
+# all-deployments.yaml
+# Instructions to deploy all individual YAML files.
+---
+# Include deployment for Central WebApi
+- file: Contoso.DuckStore.Central.WebApi.yml
+
+# Include deployment for Management WebApp
+- file: Contoso.DuckStore.Management.WebApp.yml
+
+# Include deployment for PublicApi WebApi
+- file: Contoso.DuckStore.PublicApi.WebApi.yml
+
+# Include deployment for OnlineStore WebApp
+- file: Contoso.DuckStore.OnlineStore.WebApp.yml
