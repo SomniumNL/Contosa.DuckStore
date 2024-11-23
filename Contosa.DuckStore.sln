@@ -215,6 +215,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Acceptance", "4. Accepta
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Production", "5. Production", "{2FF8D12E-BFEC-47E0-9986-584970C8A9C2}"
+	ProjectSection(SolutionItems) = preProject
+		Deployment\Production\All-Deployments.yml = Deployment\Production\All-Deployments.yml
+		Deployment\Production\ReadMe.md = Deployment\Production\ReadMe.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAreaConsole", "Test Area\TestAreaConsole\TestAreaConsole.csproj", "{BF0791DE-EC23-45D8-A481-F39EF5D6A336}"
 EndProject
