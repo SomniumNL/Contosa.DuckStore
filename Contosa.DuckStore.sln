@@ -234,6 +234,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Templates", "1. Template
 	ProjectSection(SolutionItems) = preProject
 		Deployment\Template\Deploy-Template.yml = Deployment\Template\Deploy-Template.yml
 		Deployment\Template\Pipeline-Template.yml = Deployment\Template\Pipeline-Template.yml
+		Deployment\Template\ReadMe.md = Deployment\Template\ReadMe.md
 	EndProjectSection
 EndProject
 Global
