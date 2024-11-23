@@ -215,14 +215,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Acceptance", "4. Accepta
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Production", "5. Production", "{2FF8D12E-BFEC-47E0-9986-584970C8A9C2}"
-	ProjectSection(SolutionItems) = preProject
-		Deployment\Production\All-Deployments.yml = Deployment\Production\All-Deployments.yml
-		Deployment\Production\Contosa.DuckStore.Central.WebApi.yml = Deployment\Production\Contosa.DuckStore.Central.WebApi.yml
-		Deployment\Production\Contosa.DuckStore.Management.WebApp.yml = Deployment\Production\Contosa.DuckStore.Management.WebApp.yml
-		Deployment\Production\Contosa.DuckStore.OnlineStore.WebApp.yml = Deployment\Production\Contosa.DuckStore.OnlineStore.WebApp.yml
-		Deployment\Production\Contosa.DuckStore.PublicApi.WebApi.yml = Deployment\Production\Contosa.DuckStore.PublicApi.WebApi.yml
-		Deployment\Production\ReadMe.md = Deployment\Production\ReadMe.md
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAreaConsole", "Test Area\TestAreaConsole\TestAreaConsole.csproj", "{BF0791DE-EC23-45D8-A481-F39EF5D6A336}"
 EndProject
@@ -237,24 +229,44 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Templates", "1. Template
 		Deployment\Template\ReadMe.md = Deployment\Template\ReadMe.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Hotfix", "6. Hotfix", "{0F8E5F82-F272-4532-B696-C5C72C527C92}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APAC-Southeast", "APAC-Southeast", "{3A960E36-B720-41C6-A036-1E6A351E0BFD}"
 	ProjectSection(SolutionItems) = preProject
-		Deployment\Hotfix\All-Deployments.yml = Deployment\Hotfix\All-Deployments.yml
-		Deployment\Hotfix\Contosa.DuckStore.Central.WebApi.yml = Deployment\Hotfix\Contosa.DuckStore.Central.WebApi.yml
-		Deployment\Hotfix\Contosa.DuckStore.Management.WebApp.yml = Deployment\Hotfix\Contosa.DuckStore.Management.WebApp.yml
-		Deployment\Hotfix\Contosa.DuckStore.OnlineStore.WebApp.yml = Deployment\Hotfix\Contosa.DuckStore.OnlineStore.WebApp.yml
-		Deployment\Hotfix\Contosa.DuckStore.PublicApi.WebApi.yml = Deployment\Hotfix\Contosa.DuckStore.PublicApi.WebApi.yml
-		Deployment\Hotfix\ReadMe.md = Deployment\Hotfix\ReadMe.md
+		Deployment\Production\APAC-Southeast\All-Deployments.yml = Deployment\Production\APAC-Southeast\All-Deployments.yml
+		Deployment\Production\APAC-Southeast\Contosa.DuckStore.Central.WebApi.yml = Deployment\Production\APAC-Southeast\Contosa.DuckStore.Central.WebApi.yml
+		Deployment\Production\APAC-Southeast\Contosa.DuckStore.Management.WebApp.yml = Deployment\Production\APAC-Southeast\Contosa.DuckStore.Management.WebApp.yml
+		Deployment\Production\APAC-Southeast\Contosa.DuckStore.OnlineStore.WebApp.yml = Deployment\Production\APAC-Southeast\Contosa.DuckStore.OnlineStore.WebApp.yml
+		Deployment\Production\APAC-Southeast\Contosa.DuckStore.PublicApi.WebApi.yml = Deployment\Production\APAC-Southeast\Contosa.DuckStore.PublicApi.WebApi.yml
+		Deployment\Production\APAC-Southeast\ReadMe.md = Deployment\Production\APAC-Southeast\ReadMe.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7. Regional-Production", "7. Regional-Production", "{1C812650-8E44-4964-8CA2-9E385C8D25E7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EU-Central", "EU-Central", "{46008D5B-BF60-43B7-9C21-3108E091EAB6}"
 	ProjectSection(SolutionItems) = preProject
-		Deployment\Regional-Production\All-Deployments.yml = Deployment\Regional-Production\All-Deployments.yml
-		Deployment\Regional-Production\Contosa.DuckStore.Central.WebApi.yml = Deployment\Regional-Production\Contosa.DuckStore.Central.WebApi.yml
-		Deployment\Regional-Production\Contosa.DuckStore.Management.WebApp.yml = Deployment\Regional-Production\Contosa.DuckStore.Management.WebApp.yml
-		Deployment\Regional-Production\Contosa.DuckStore.OnlineStore.WebApp.yml = Deployment\Regional-Production\Contosa.DuckStore.OnlineStore.WebApp.yml
-		Deployment\Regional-Production\Contosa.DuckStore.PublicApi.WebApi.yml = Deployment\Regional-Production\Contosa.DuckStore.PublicApi.WebApi.yml
-		Deployment\Regional-Production\ReadMe.md = Deployment\Regional-Production\ReadMe.md
+		Deployment\Production\EU-Central\All-Deployments.yml = Deployment\Production\EU-Central\All-Deployments.yml
+		Deployment\Production\EU-Central\Contosa.DuckStore.Central.WebApi.yml = Deployment\Production\EU-Central\Contosa.DuckStore.Central.WebApi.yml
+		Deployment\Production\EU-Central\Contosa.DuckStore.Management.WebApp.yml = Deployment\Production\EU-Central\Contosa.DuckStore.Management.WebApp.yml
+		Deployment\Production\EU-Central\Contosa.DuckStore.OnlineStore.WebApp.yml = Deployment\Production\EU-Central\Contosa.DuckStore.OnlineStore.WebApp.yml
+		Deployment\Production\EU-Central\Contosa.DuckStore.PublicApi.WebApi.yml = Deployment\Production\EU-Central\Contosa.DuckStore.PublicApi.WebApi.yml
+		Deployment\Production\EU-Central\ReadMe.md = Deployment\Production\EU-Central\ReadMe.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "US-East", "US-East", "{92FB07BA-323D-48C3-9F27-6F8B3E627665}"
+	ProjectSection(SolutionItems) = preProject
+		Deployment\Production\US-East\All-Deployments.yml = Deployment\Production\US-East\All-Deployments.yml
+		Deployment\Production\US-East\Contosa.DuckStore.Central.WebApi.yml = Deployment\Production\US-East\Contosa.DuckStore.Central.WebApi.yml
+		Deployment\Production\US-East\Contosa.DuckStore.Management.WebApp.yml = Deployment\Production\US-East\Contosa.DuckStore.Management.WebApp.yml
+		Deployment\Production\US-East\Contosa.DuckStore.OnlineStore.WebApp.yml = Deployment\Production\US-East\Contosa.DuckStore.OnlineStore.WebApp.yml
+		Deployment\Production\US-East\Contosa.DuckStore.PublicApi.WebApi.yml = Deployment\Production\US-East\Contosa.DuckStore.PublicApi.WebApi.yml
+		Deployment\Production\US-East\ReadMe.md = Deployment\Production\US-East\ReadMe.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "US-West", "US-West", "{F0506C98-C6C8-440E-BDA5-BC90DAF9F8B5}"
+	ProjectSection(SolutionItems) = preProject
+		Deployment\Production\US-West\All-Deployments.yml = Deployment\Production\US-West\All-Deployments.yml
+		Deployment\Production\US-West\Contosa.DuckStore.Central.WebApi.yml = Deployment\Production\US-West\Contosa.DuckStore.Central.WebApi.yml
+		Deployment\Production\US-West\Contosa.DuckStore.Management.WebApp.yml = Deployment\Production\US-West\Contosa.DuckStore.Management.WebApp.yml
+		Deployment\Production\US-West\Contosa.DuckStore.OnlineStore.WebApp.yml = Deployment\Production\US-West\Contosa.DuckStore.OnlineStore.WebApp.yml
+		Deployment\Production\US-West\Contosa.DuckStore.PublicApi.WebApi.yml = Deployment\Production\US-West\Contosa.DuckStore.PublicApi.WebApi.yml
+		Deployment\Production\US-West\ReadMe.md = Deployment\Production\US-West\ReadMe.md
 	EndProjectSection
 EndProject
 Global
@@ -513,8 +525,10 @@ Global
 		{65F1F808-BAEB-49C5-837F-C0141C820FAE} = {6EADE939-5BF7-4411-8D91-8CA47E538477}
 		{E74A7277-658D-47C9-833F-8C05A318CADE} = {65F1F808-BAEB-49C5-837F-C0141C820FAE}
 		{56D90D92-7DDD-4007-A924-2E05687CA1D1} = {358B4B5A-0043-4A63-A253-99058532C2B3}
-		{0F8E5F82-F272-4532-B696-C5C72C527C92} = {358B4B5A-0043-4A63-A253-99058532C2B3}
-		{1C812650-8E44-4964-8CA2-9E385C8D25E7} = {358B4B5A-0043-4A63-A253-99058532C2B3}
+		{3A960E36-B720-41C6-A036-1E6A351E0BFD} = {2FF8D12E-BFEC-47E0-9986-584970C8A9C2}
+		{46008D5B-BF60-43B7-9C21-3108E091EAB6} = {2FF8D12E-BFEC-47E0-9986-584970C8A9C2}
+		{92FB07BA-323D-48C3-9F27-6F8B3E627665} = {2FF8D12E-BFEC-47E0-9986-584970C8A9C2}
+		{F0506C98-C6C8-440E-BDA5-BC90DAF9F8B5} = {2FF8D12E-BFEC-47E0-9986-584970C8A9C2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E147E01D-F136-4C85-B72F-8558AF9F9EB2}
