@@ -10,6 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Source", "2. Source", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Documentation", "1. Documentation", "{BC9D6E40-3985-4AE4-A07D-45C5CA877A6C}"
 	ProjectSection(SolutionItems) = preProject
+		Notes.md = Notes.md
 		ReadMe.md = ReadMe.md
 	EndProjectSection
 EndProject
