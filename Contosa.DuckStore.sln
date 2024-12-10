@@ -138,7 +138,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. API Tests", "2. API Test
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contosa.DuckStore.PublicApi.WebApi.APITests", "Tests\Contosa.DuckStore.PublicApi.WebApi.APITests\Contosa.DuckStore.PublicApi.WebApi.APITests.csproj", "{A52F0D37-91CC-4C04-8AB4-9DB1085D67FF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Deployment (Pipelines)", "4. Deployment (Pipelines)", "{358B4B5A-0043-4A63-A253-99058532C2B3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Deployment", "4. Deployment", "{358B4B5A-0043-4A63-A253-99058532C2B3}"
 	ProjectSection(SolutionItems) = preProject
 		Deployment\ReadMe.md = Deployment\ReadMe.md
 	EndProjectSection
@@ -185,7 +185,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSV", "CSV", "{3C14A53B-80D
 		Data\Csv\Products.csv = Data\Csv\Products.csv
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Development", "2. Development", "{2FF9A1BC-5DFA-47D8-A5D7-A8E4BBB1C06E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Development (Yaml)", "2. Development (Yaml)", "{2FF9A1BC-5DFA-47D8-A5D7-A8E4BBB1C06E}"
 	ProjectSection(SolutionItems) = preProject
 		Deployment\Development\All-Deployments.yml = Deployment\Development\All-Deployments.yml
 		Deployment\Development\Contosa.DuckStore.Central.WebApi.yml = Deployment\Development\Contosa.DuckStore.Central.WebApi.yml
@@ -195,7 +195,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Development", "2. Develo
 		Deployment\Development\ReadMe.md = Deployment\Development\ReadMe.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Testing", "3. Testing", "{199C1537-953E-4CE8-9EDF-66B70E52F81E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Testing (Yaml)", "3. Testing (Yaml)", "{199C1537-953E-4CE8-9EDF-66B70E52F81E}"
 	ProjectSection(SolutionItems) = preProject
 		Deployment\Testing\All-Deployments.yml = Deployment\Testing\All-Deployments.yml
 		Deployment\Testing\Contosa.DuckStore.Central.WebApi.yml = Deployment\Testing\Contosa.DuckStore.Central.WebApi.yml
@@ -205,7 +205,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Testing", "3. Testing", 
 		Deployment\Testing\ReadMe.md = Deployment\Testing\ReadMe.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Acceptance", "4. Acceptance", "{EBEE9938-8C5E-4977-8ECE-C812CF7FEBCC}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Acceptance (Yaml)", "4. Acceptance (Yaml)", "{EBEE9938-8C5E-4977-8ECE-C812CF7FEBCC}"
 	ProjectSection(SolutionItems) = preProject
 		Deployment\Acceptance\All-Deployments.yml = Deployment\Acceptance\All-Deployments.yml
 		Deployment\Acceptance\Contosa.DuckStore.Central.WebApi.yml = Deployment\Acceptance\Contosa.DuckStore.Central.WebApi.yml
@@ -215,7 +215,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Acceptance", "4. Accepta
 		Deployment\Acceptance\ReadMe.md = Deployment\Acceptance\ReadMe.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Production", "5. Production", "{2FF8D12E-BFEC-47E0-9986-584970C8A9C2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Production (Yaml)", "5. Production (Yaml)", "{2FF8D12E-BFEC-47E0-9986-584970C8A9C2}"
 	ProjectSection(SolutionItems) = preProject
 		Deployment\Production\All-Deployments.yml = Deployment\Production\All-Deployments.yml
 		Deployment\Production\ReadMe.md = Deployment\Production\ReadMe.md
@@ -227,7 +227,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{65
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Contosa.DuckStore.Database", "Data\Database\Contosa.DuckStore.Database\Contosa.DuckStore.Database.sqlproj", "{E74A7277-658D-47C9-833F-8C05A318CADE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Templates", "1. Templates", "{56D90D92-7DDD-4007-A924-2E05687CA1D1}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Templates (Yaml)", "1. Templates (Yaml)", "{56D90D92-7DDD-4007-A924-2E05687CA1D1}"
 	ProjectSection(SolutionItems) = preProject
 		Deployment\Template\Deploy-Template.yml = Deployment\Template\Deploy-Template.yml
 		Deployment\Template\Pipeline-Template.yml = Deployment\Template\Pipeline-Template.yml
